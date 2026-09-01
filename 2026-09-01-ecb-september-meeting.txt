@@ -1,0 +1,25 @@
+Here's where things stand and how the balance of the argument lines up.
+
+Where rates are, and why. The Governing Council raised all three key rates 25bp on 11 June 2026, taking the deposit rate to 2.25%. It held at 2.25% on 23 July. The next decision lands 10 September 2026, announced 14:15 CET with Lagarde's press conference at 14:45 (ECB, financecalendar.com).
+
+The data that's moved since July. August flash HICP came in at 3.3% y/y, up from 2.9% in July and the highest print of the year. The move is almost entirely energy: energy inflation jumped to 14.3% y/y from 10.3%, tied to the Iran war and Strait of Hormuz disruption. Core inflation, which strips out energy and food, actually eased to 2.4% from 2.5% (Eurostat, Euronews).
+
+The case for another hike. Headline inflation is now well above target and rising, and a central bank that just hiked in June has a credibility reason to keep going rather than look behind a supply shock. Growth has held up too, with GDP tracking near 0.8-0.9% for the year, so the usual argument against tightening into weakness doesn't apply.
+
+The case against. The inflation overshoot is a geopolitical energy shock, not domestic demand overheating, and core inflation cooling in the same report undercuts the case that underlying price pressure is building. Hiking into an energy shock also tightens financial conditions for a supply-side problem monetary policy can't fix, and risks amplifying the growth hit from higher energy costs.
+
+That second point is a judgment call, not something this data settles. What the data supports cleanly: headline is up, core is down, the divergence is real. What's judgment: whether the Governing Council treats the headline print as the operative number two weeks before a meeting where it already hiked once, or looks through it because the driver is external and core is behaving.
+
+One thing I couldn't verify to a primary source: the specific claim that a hike to 2.50% is "almost fully priced in." That came from a secondary/aggregator summary, not a swaps or OIS data feed I could confirm directly, so treat the pricing level as directional rather than a hard number.
+
+A few questions worth running down before next week: has the ECB in this cycle shown a pattern of looking through energy shocks when core is easing, or has it tended to hike on headline regardless? What's priced for the following two meetings, i.e. is September a one-off or the start of a short hiking run? And is there a read from a Governing Council member since 23 July signaling how they're weighing the headline/core split?
+
+Unverified/flagged: the "almost fully priced in" and 2.50% pricing figures above; everything else is sourced to ECB or Eurostat primary releases dated in the citations.
+
+Sources:
+- ECB press release, 23 July 2026: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html
+- ECB press release, 11 June 2026: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html
+- ECB key interest rates: https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
+- Eurostat, euro area inflation up to 3.3%: https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-01092026-ap
+- Euronews, eurozone inflation jumps to 3.3%: https://www.euronews.com/business/2026/09/01/eurozone-inflation-jumps-to-33-in-august-as-energy-prices-surge
+- financecalendar.com, ECB 2026 schedule: https://www.financecalendar.com/ecb-rate-decisions/
