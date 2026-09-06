@@ -1,0 +1,76 @@
+I'll start with Vital Knowledge. Let me set up the browser tab.The URL pattern works. Let me read this note and then navigate directly to the others.Now the Friday market recap for closing levels and the jobs report detail.VK notes captured. Now StreetAccount weekly recaps. Marking VK done.US data captured in depth. Now Europe. Navigating to region 2 (filter and date reset each time).Comprehensive EU data captured. Now Asia recap for completeness.Calendar open, Market Summaries selected. Clicking Friday 4.Asia captured. All three regional recaps plus VK are in hand. Closing the browser tab and moving to verification.The environment's WebSearch returns the same week's data, so I can cross-verify. Running a few more checks on oil, the ECB, and key corporate figures.Two useful catches there. Let me verify a couple more headline figures before writing.Everything verified. Closing the browser tab and finalizing.Week ended Friday 4 September 2026. All three deliverables below, built off Vital Knowledge, StreetAccount (US, EU, Asia recaps) and web verification.
+
+═══════════════════════════════════════
+DELIVERABLE 1 — "Top of mind for clients" email (ExCo)
+═══════════════════════════════════════
+
+Subject: Top of mind: hike risk into CPI, the oil grind, and a two-sided AI tape
+
+Team,
+
+Are central banks really about to hike into a slowing world, and does the yield backup matter? Friday's US payrolls were a blow-out at +162K against roughly 55K expected, with unemployment holding at 4.1% and wage growth benign. That keeps a 16 September Fed hike live (market odds moved to about 60%), even after dovish signals from Waller and Williams. The ECB is set to lift its deposit rate a quarter point to 2.50% on Thursday, likely the last move of its short cycle, and the BOJ looks poised to go again this month, with JGB 10y yields above 3% for the first time since 1996. The through-line is a global backup in long yields driven by fiscal supply and AI-related issuance, not by growth strength. Our view: the hike itself is not the risk, sticky inflation is. We would treat Friday's US CPI as the real swing factor and stay up in quality and light on duration.
+
+Is the oil and Iran story about to break something? Kinetic exchanges in the Strait of Hormuz resumed and Brent pushed to around $96, up close to 9% on the week. The tell is not crude, it is diesel, which hit a record $5.85 a gallon, up roughly 60% on the year, feeding straight into freight and food costs. Oil is still transiting Hormuz under US naval cover, so this is a slow tax on growth rather than a 2022-style spike. Our view: we would fade panic on any single headline but keep energy and defensives as a hedge, and watch diesel cracks rather than the Brent print for the real signal.
+
+With AI capex booming, why is the tape two-sided? Broadcom and Dell confirmed the demand is real (Broadcom now guides AI chip revenue to around $230bn by FY28, Dell's AI server backlog hit $95bn). Yet model competition is brutal, with OpenAI's GPT-6 Astra out and Google and Meta close behind, and the Anthropic S-1 now slipped to late September. Capex is outrunning cash flow and leaning on debt, which is part of what is lifting yields. Our view: this is starting to look less like a monopoly franchise and more like a capital-intensive utility. We stay long the pick-and-shovel infrastructure names and more selective on the model layer.
+
+One to watch: European politics and fiscal risk, with the ECB decision Thursday, France's 2027 budget fight and UK gilt jitters under PM Burnham all live, plus Sunday's Saxony-Anhalt vote where the AfD leads.
+
+Best, Ju
+
+Sources: Vital Weekend 9/6 (https://vitalknowledge.net/article/2026/09/06/vital-weekend-sun-9-6-2026-getting-ready-for-the-week-ahead) · Vital Talking Points, week ended 9/4 (https://vitalknowledge.net/article/2026/09/04/vital-talking-points-recap-for-the-week-ended-friday-september-4-2026) · StreetAccount US Weekly Recap (https://www.streetaccount.com/MacroSummaries.aspx?region_id=1) · CNBC, August jobs report (https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html) · Reuters/FXStreet, ECB September poll (https://www.fxstreet.com/news/economists-agree-ecb-to-hike-rates-on-september-10-reuters-poll-202609031128) · Washington Post, diesel record (https://www.washingtonpost.com/business/2026/09/04/diesel-hits-record-585-gallon-iran-war-drags/)
+
+═══════════════════════════════════════
+DELIVERABLE 2 — Monday presentation recap
+═══════════════════════════════════════
+
+MONDAY RECAP — acronym: OAR
+
+O — Oil. US-Iran strikes resumed in Hormuz and Brent jumped about 9% to near $96, but the real bite is diesel at a record $5.85. This is a slow tax on growth, not a 2022-style spike.
+
+A — AI, both ways. Broadcom and Dell proved the demand (Broadcom sees roughly $230bn of AI chips by FY28), yet model competition is crushing economics. Stay long the infrastructure, selective on models.
+
+R — Rates. A +162K payrolls blow-out keeps a September Fed hike live into Friday's CPI. The hike is not the risk, sticky inflation is.
+
+═══════════════════════════════════════
+DELIVERABLE 3 — Weekly markets digest
+═══════════════════════════════════════
+
+• Broad market performance and drivers. US equities squeezed out a second straight weekly gain, the S&P 500 up 0.09% to 7,718.60 and the Nasdaq up 0.40%, while the Dow slipped 0.27%. Semis and memory led (SOX +2.3%, DRAM +6.9%) as AI infrastructure demand was reaffirmed. Europe lagged, the STOXX 600 down 0.81% to its weakest in a month on a yield backup and firmer energy, with banks and oil majors the only real bright spots. Asia was mixed, the Nikkei off 2.1% in local terms as the yen surged.
+
+• Macro. The week belonged to a US payrolls blow-out, +162K against roughly 55K expected, unemployment steady at 4.1% and wages contained. That lifted September Fed hike odds to about 60% even after dovish Waller and Williams comments, leaving Friday's August CPI as the decisive print. ISM services hit a six-month high, but prices paid reached 72.6, the hottest since mid-2022. In Europe, eurozone inflation rose to 3.3%, its highest since 2023, though core cooled to 2.4%.
+
+• Rates, commodities and FX. Long yields backed up again on fiscal supply and AI-linked issuance, the Bund at its highest since 2011 and the gilt since 2007, with the US 10y closing at 4.78%. Brent rose close to 9% to around $96 as Hormuz strikes resumed, and diesel set a record $5.85 a gallon. Gold fell 1.2%. The dollar dropped 0.6%, all about a yen that jumped on BOJ hike bets, with JGB 10y yields above 3% for the first time since 1996.
+
+• Corporates. Broadcom and Dell anchored the AI bull case, Broadcom guiding to roughly $230bn of AI chip revenue by FY28 and Dell's AI server backlog reaching $95bn. The counterweight was retail, with Lululemon down about 17% on a miss and guidance cut, and Campbell's cutting its dividend 36%. New models shipped from OpenAI and Google, with Meta also out, and the Anthropic IPO slipped to late September.
+
+• Key events this week. US markets shut Monday for Labor Day. The ECB decides Thursday and is expected to lift the deposit rate 25bp to 2.50%, likely its last hike. US PPI lands Thursday, then the main event, August CPI, on Friday alongside Michigan sentiment. Apple's iPhone event is Wednesday, with Oracle and Adobe earnings Thursday, and Treasury auctions run midweek across the curve.
+
+• Our message. Base case, the grind higher in quality continues but leadership narrows to AI infrastructure and the tape stays choppy while long yields rise; a benign CPI would extend it. Risk case, a hot CPI plus a September hike and a fresh oil leg tightens financial conditions fast, and the crowded AI complex is where the pain would concentrate. We stay invested, up in quality, and hedged with energy.
+
+───────────────────────────────────────
+FLAGS
+
+Material corrections
+- ECB policy rate. StreetAccount's EU recap wrote the ECB "benchmark interest rate expected to be increased +25bps to 2.65%." The main policy rate is the deposit rate, expected to rise 25bp to 2.50% on 10 September (Reuters poll of 65 economists, FXStreet: https://www.fxstreet.com/news/economists-agree-ecb-to-hike-rates-on-september-10-reuters-poll-202609031128). 2.65% is the marginal lending facility rate set in June, not the headline policy rate. Corrected to 2.50% in the body. Published as written, it would overstate the level markets watch by 15bp.
+- Diesel prior record. StreetAccount put the previous diesel record at $5.82 (June 2022). AAA and the Washington Post (https://www.washingtonpost.com/business/2026/09/04/diesel-hits-record-585-gallon-iran-war-drags/) give the prior peak as $5.81. New record of $5.85 verified. Immaterial to the narrative but corrected for accuracy.
+
+Verified as written
+- US weekly index moves: S&P 500 +0.09% (Friday close 7,718.60), Nasdaq +0.40%, Dow −0.27%. STOXX 600 −0.81%. Nikkei −2.1% local.
+- August payrolls +162K, unemployment 4.1%, average hourly earnings +0.3% m/m (CNBC: https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html).
+- Brent around $96, up ~9% on the week; diesel record $5.85; WTI +9.7% weekly.
+- Broadcom AI chip revenue path ~$58bn FY26, ~$115bn FY27, ~$230bn FY28 (Seeking Alpha: https://seekingalpha.com/news/4639799-broadcom-forecasts-58b-fiscal-2026-ai-revenue-and-outlines-115b-in-2027-230b-in-2028); Dell AI server backlog $95bn.
+- ECB hike expected 10 September; JGB 10y above 3%, first since 1996; eurozone HICP 3.3%, core 2.4%.
+
+Does not reconcile
+- Strait of Hormuz throughput. StreetAccount cited ~18M barrels transiting on Tuesday; other sources give ~17M on Monday as a "wartime record," and one gives 4.9M bpd versus 21.6M pre-war. Figures conflict on both level and basis (single-day vs daily rate). Kept high-level in the body; re-pull if a precise number is needed.
+- Payrolls consensus. VK and StreetAccount used "~55K"; Dow Jones/CNBC put the forecast at 53K. Rounded to "roughly 55K."
+- Friday gold move. VK showed gold −0.85% on Friday; StreetAccount showed the December future −1.33%. Spot-versus-future difference, not reconciled.
+
+Unverified
+- China's ~$54bn injection into state-owned insurers and banks (VK, attributed to Reuters). Not independently reconfirmed; not used in the digest body.
+- Nvidia acquiring Hugging Face for $13bn and investing $3.5bn in MediaTek (VK/StreetAccount). Not independently searched.
+- Anthropic S-1 timing (late September) and underwriter roles, Morgan Stanley lead-left and Goldman stabilisation (VK, attributed to FT/Reuters). Directionally used ("slipped to late September") but the underwriter detail is unverified.
+
+───────────────────────────────────────
+Combined sources: VK Weekend 9/6 (https://vitalknowledge.net/article/2026/09/06/vital-weekend-sun-9-6-2026-getting-ready-for-the-week-ahead) · VK Talking Points 9/4 (https://vitalknowledge.net/article/2026/09/04/vital-talking-points-recap-for-the-week-ended-friday-september-4-2026) · VK Friday recap 9/4 (https://vitalknowledge.net/article/2026/09/04/vital-market-recap-for-friday-september-4-2026) · SA US recap (https://www.streetaccount.com/MacroSummaries.aspx?region_id=1) · SA EU recap (https://www.streetaccount.com/MacroSummaries.aspx?region_id=2) · SA Asia recap (https://www.streetaccount.com/MacroSummaries.aspx?region_id=3) · CNBC jobs (https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html) · CNBC/Yahoo S&P close (https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html) · WaPo diesel (https://www.washingtonpost.com/business/2026/09/04/diesel-hits-record-585-gallon-iran-war-drags/) · FXStreet ECB poll (https://www.fxstreet.com/news/economists-agree-ecb-to-hike-rates-on-september-10-reuters-poll-202609031128) · Seeking Alpha AVGO (https://seekingalpha.com/news/4639799-broadcom-forecasts-58b-fiscal-2026-ai-revenue-and-outlines-115b-in-2027-230b-in-2028)
