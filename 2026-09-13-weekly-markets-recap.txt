@@ -1,0 +1,63 @@
+═══════════════════════════════════════
+DELIVERABLE 1: "Top of mind for clients" email
+═══════════════════════════════════════
+
+Subject: Top of mind: oil, the price shock, and the long end
+
+Team,
+
+Three things clients are asking about after a week the bears took comfortably.
+
+Is Monday's meeting the turning point?
+
+Brent settled at $104.61 on Friday, up around 9% on the week after trading as high as $108 on Thursday. The trigger was Yemen rather than Iran directly, with the Houthis taking Mocha and pushing toward the Red Sea islands, which puts Bab el-Mandeb alongside Hormuz on the danger list. Saudi Arabia then shut its East-West pipeline as a precaution. Friday's pullback came on reports that GCC foreign ministers would meet Iran in Salalah today, the first such gathering since the war started in February. It's worth being clear about what that is, a traffic-management arrangement for Hormuz rather than a peace deal, and Bahrain has already said it won't attend. The physical picture hasn't improved either, with the IEA logging another 95m barrel draw in global inventories in August, 507m since February. Our view is that we wouldn't chase the de-escalation rally, and we're comfortable keeping energy as a hedge rather than trying to trade the headlines.
+
+Is this actually inflation?
+
+Everyone read Friday's CPI as hot, and the Fed is now around 85% priced to hike on Wednesday. Core did rise 0.3% m/m against 0.2% expected. But the year-on-year tells a different story: core CPI is 2.4%, down from 2.5%, while headline is 3.4% and the gap is energy. Europe looks the same, with August inflation at 3.3% headline and 2.2% excluding energy, and the ECB hiked anyway on Thursday. In other words, central banks are tightening into a price shock rather than an inflation problem, and a shock only becomes inflation if it turns self-reinforcing. The second-round evidence is still thin, with Michigan five-year expectations at 3.4% and corporates talking about margin compression rather than pass-through. Our view is that Wednesday's hike is probably credibility insurance, and we don't think it turns into a cycle.
+
+Who buys all this debt?
+
+This is the part that should worry clients more than the Fed. Ten-year Treasuries finished the week just shy of 5% and 30-years at 5.36%. Bunds hit levels last seen in 2011 and ten-year gilts levels from 2007, while a UK thirty-year syndication on 8 September cleared at 5.82%, a record for a gilt sale. Treasury's buyback underwhelmed, and France has now conceded its deficit will be above 5% this year. Add a White House apparently serious about a $5,000 dividend cheque and the long end starts to look like a fiscal story rather than a monetary one, which is a great deal harder to fix. Our view is that we stay positioned to benefit from higher yields, and we're happy to be paid to wait.
+
+One to watch: Dario Amodei's essay calling on frontier labs to slow down, endorsed over the weekend by Altman and Musk. If the labs genuinely pace themselves, the pain lands on the pick-and-shovel names rather than the hyperscalers, and Anthropic's IPO, reportedly up to $100bn at a $2tn valuation, becomes the test of whether the market still wants to fund all of this.
+
+Best, Ju
+
+Sources:
+
+BLS Consumer Price Index Summary, August 2026
+ECB raises deposit rate to 2.50%, 10 September 2026
+IEA Oil Market Report, September 2026
+Brent settles at $104.61 as Houthis take Perim Island
+Iran and GCC to meet in Salalah on 14 September
+UK sells 30-year debt at record syndication yield
+Global bond selloff sends 10-year Treasury yields to cusp of 5%
+Dario Amodei, "We Must Pace the Frontier"
+Anthropic, OpenAI CEOs call for slowdown in AI development
+
+═══════════════════════════════════════
+DELIVERABLE 2: MONDAY RECAP — acronym: OIL
+═══════════════════════════════════════
+
+O is for oil chokepoints. The Houthis took Mocha and Saudi Arabia shut its East-West pipeline. Brent settled near $105, up around 9% on the week.
+
+I is for inflation that isn't. Core CPI printed 0.3% m/m but only 2.4% y/y. The heat is energy, not demand.
+
+L is for the long end. Ten-year Treasuries finished just shy of 5%. Bunds and gilts hit levels last seen in 2011 and 2007.
+
+Central banks are hiking into a price shock. Our view: the first hike is credibility, not a cycle. The risk sits in bonds, not equities.
+
+(92 words)
+
+═══════════════════════════════════════
+DELIVERABLE 3: Weekly markets digest
+═══════════════════════════════════════
+
+Week ended Friday 11 September 2026
+
+Equities fell in the week to Friday 11 September. The S&P 500 lost 0.8%, the Nasdaq 0.7%, the Dow 1.6% and the Russell 2000 2.4%, with the equal-weight index trailing the cap-weighted S&P by roughly 109bp. Europe was worse, the STOXX 600 down 1.66% for a second week. Oil explains most of it. Brent settled at $104.61 on Friday, up around 9% on the week after touching its highest level since May, pulling global borrowing costs higher with it. Reports of a Gulf-Iran meeting sparked a 1% bounce on Friday.
+August US CPI rose 0.4% m/m and 3.4% y/y. Core rose 0.3% m/m, above consensus, but 2.4% y/y, down from 2.5%. That distinction matters. The ECB raised its deposit rate 25bp to 2.50% on 10 September, with euro area August inflation at 3.3% headline against 2.2% excluding energy. Michigan sentiment fell to 47.8, second-lowest on record, with year-ahead inflation expectations at 4.6%. UK July GDP beat again at 0.4% m/m, while the AfD took 43.8% in Saxony-Anhalt and France conceded its 2026 deficit will exceed 5%.
+The long end did the damage. Ten-year Treasuries ended just shy of 5% and 30-years at 5.36%, with two-year yields up 24-28bp. Bunds reached levels last seen in 2011 and ten-year gilts levels from 2007. A UK 30-year syndication on 8 September cleared at 5.82%, a record for a gilt sale. WTI rose 9.4% to $100.48 and the IEA logged another 95m barrel inventory draw in August, 507m since February. The dollar index was flat at 99.13 and the yen firmed 1.4%.
+Key events this week: the FOMC on Wednesday, with roughly 85% of a 25bp hike priced and a new dot plot; the Bank of England on Thursday, expected to hold at 3.75%; the BoJ on Thursday night, where a hike is widely expected. US August retail sales and UK August CPI land on Wednesday, Chinese activity data on Monday. The GCC-Iran meeting in Salalah is the real swing factor.
+Our message. Base case: this is a price shock, not an inflation problem. Core is near target on both sides of the Atlantic and second-round evidence remains thin, so we read this week's hikes as credibility insurance rather than the start of a cycle. Equity dips stay buyable and we remain positioned for higher long-end yields. Risk case: the pass-through arrives. Five-year inflation expectations above 3.5%, or a Fed signalling a second hike, would change that. At which point the long end becomes an equity problem rather than a bond one.
