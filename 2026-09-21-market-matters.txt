@@ -1,0 +1,56 @@
+Market Matters — draft for Monday 21 September 2026
+What's moving markets?
+
+Warsh finally moves
+
+Last week we noted that markets expected the US Federal Reserve (Fed) to raise interest rates on Wednesday, and asked whether it would be a one-off or the start of a series. We now have both halves of the answer. The Fed raised its target range by a quarter of a percentage point to 3.75%-4%, the first increase since 2023, on a unanimous 12-0 vote. The statement was blunt: "Inflation remains elevated," and "The Committee will deliver price stability." Fed Chair Kevin Warsh was blunter still at the press conference, saying that "inflation is too high and has been for too long". As for the second half, the Fed's own projections point to a series rather than a full stop: 16 of the 18 officials who submitted forecasts see at least one more increase before the year is out, and four of them see two. Shares fell on the day, then more than recovered on Thursday. [Your view here]
+
+A pipeline in the desert
+
+The week's other shock came from a stretch of steel across Saudi Arabia. Drones struck the kingdom's East-West pipeline, prompting a precautionary shutdown. The 1,200km line carries roughly four to five million barrels a day from the eastern oil fields to the Red Sea port of Yanbu, bypassing the Strait of Hormuz, and had become the kingdom's main workaround while the strait remained largely closed. Saudi authorities traced the drones to Maysan province in south-eastern Iraq. Brent crude rose 1% to $105.68 on Monday after approaching $110 earlier in the session, having started July below $72. Prices eased later in the week as Saudi Arabia signalled repairs, with US crude slipping to $101.91 on Thursday. [Your view here]
+
+Pacing the frontier
+
+Then, on Monday, the artificial intelligence (AI) trade was rattled from the inside. Anthropic's chief executive published an essay calling for a deliberate, global slowdown in the pace of AI development, citing risks from cyberattacks to "serious economic disruption". The heads of OpenAI, SpaceX and Google DeepMind backed the call over the weekend. Chip and infrastructure shares fell worldwide: Nvidia dropped 3.4%, SoftBank lost 10.7% in Tokyo and South Korea's Kospi index fell 3.3%. Yet the damage stayed contained. The S&P 500 slipped just 0.5% to 7,619.98, and more shares rose within the index than fell. By Thursday Nvidia had regained 2.5%, with its chief executive telling reporters in the UK that he expects chip sales to double next year. [Your view here]
+
+What does this mean for investors?
+
+A five in front
+
+Government bond yields reached a milestone before the Fed acted. The yield on the 10-year US Treasury briefly breached 5% on Monday for the first time in nearly three years, against 3.97% before the conflict with Iran began in February, and closed at 5.00% on Tuesday. The 30-year closed at 5.36%, above the multi-decade high we flagged in August. In August we suggested that a single US increase could reassure investors that the Fed remains committed to controlling inflation, and that if it pulled longer-term yields down it could be supportive for markets. The first part of that has now been tested: yields did fall after the decision, with the 10-year back to 4.936% on Thursday. One week is not a trend. [Your view here]
+
+Britain's quiet revolution
+
+The Bank of England (BoE) held Bank Rate at 3.75% by six votes to three, with the dissenters preferring 4%. The bigger news sat underneath. The Committee voted unanimously to run its £488 billion of gilts held for monetary policy purposes down to zero over eight years, keeping £120 billion of the longest-dated bonds permanently to back banknotes, selling £146 billion at £20 billion a year and pausing all sales until April while it consults on selling directly to the Debt Management Office. This is quantitative tightening, where a central bank shrinks the bond portfolio it built up after the financial crisis, being given a fixed and published end date rather than an annual review. It arrived days after 30-year UK borrowing costs hit their highest since 1998, and gilts rallied on the news. [Your view here]
+
+The letter and the winter
+
+The backdrop is uncomfortable. UK inflation rose to 3.1% in August from 2.9%, driven mainly by motor fuels, which is far enough above the 2% target to require an exchange of open letters between the Governor and the Chancellor. The BoE now expects inflation of around 3¾% in the final quarter of this year and slightly above 4% in early 2027, almost entirely because of oil and gas. It also flagged something outside its control: global agricultural prices have risen around 5% since July and could go higher if harvests are hit by a severe El Niño. [Your view here]
+
+What are we looking at this week?
+
+A first read on September
+
+Flash purchasing managers' surveys land on Wednesday, the first broad measure of how business fared during the oil move. In August the US composite reading reached its highest since April 2022, even as manufacturing softened on higher fuel costs and supply delays.
+
+Out of blackout
+
+Fed officials are free to speak again after the pre-meeting quiet period. With the decision behind them, attention turns to how firmly the committee's projected further increase is held, and how quickly it might arrive.
+
+The repair clock at Yanbu
+
+Estimates for restoring the East-West pipeline vary from days to six weeks. Yanbu holds roughly five to seven days of stock. How fast Saudi exports recover will do more for the crude price than most things on the economic calendar.
+
+Metrics that matter
+
+Slightly above 4% — where the BoE expects UK inflation to peak in early 2027, up from the 3.2% it forecast in July, with the revision almost entirely down to oil and gas. (BoE, 17 September)
+
+207 pence per therm — the UK wholesale gas price on 14 September, 78% higher than in the run-up to the BoE's July report. (BoE, 17 September)
+
+3.7% — the Fed's median projection for US inflation this year on its preferred measure, against a 2% target. (Federal Reserve, 16 September)
+
+£120 billion — the long-dated gilts the BoE will keep permanently, to back the banknotes in our pockets, as it winds the rest of the portfolio down. (BoE, 17 September)
+
+$8 billion — the backup generators Generac will supply to Amazon's data centres through 2033, a reminder that the AI build-out runs on power as much as silicon. (Kiplinger, 17 September)
+
+Zero — Atlantic hurricanes formed before 11 September, the first time that has happened since reliable records began, thanks to a record-strength El Niño that is also the reason the BoE is worrying about food prices. (Scientific American, 11 September)
