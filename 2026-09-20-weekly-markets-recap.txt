@@ -1,0 +1,143 @@
+═══════════════════════════════════════
+DELIVERABLE 1: ExCo email
+═══════════════════════════════════════
+
+A policy mistake?
+
+The Fed raised rates for the first time since July 2023, unanimously, and the BoJ followed two days later. The ECB moved earlier in the month, and the BoE held while sounding hawkish. So we now have most of the developed world tightening into an energy shock that none of them can influence, which is close to the textbook definition of an error. It deserves to be taken seriously as a risk, because the cost lands on the most rate-sensitive parts of the economy and housing data disappointed almost everywhere this week. That said, what central banks are defending is not the oil price, it's the assumption that the oil price stays in the index. The UK print made the point rather neatly: headline jumped, core and services didn't move at all. Our view is that this is insurance rather than a mistake, and that the cycle ends earlier than the dots imply. We're content to be patient on duration while the market prices the hawkish case.
+
+Why is oil falling?
+
+The Middle East got worse this week, not better. The Houthis widened their attacks on Saudi cities, Iran-aligned militias in Iraq remain active, and the East-West pipeline is still down. Crude fell anyway, for three straight sessions into Friday, once Riyadh indicated roughly half the line could be back within days. The market has already priced the loss of the Hormuz workaround and is now trading the repair schedule. What would change that is a shift in target selection: with some exceptions, energy and economic infrastructure have been spared in this round, and if that stops being true the move in price would be larger than the barrels justify, because positioning in the tail is thin. We think a resolution remains the more likely outcome, but it's become very hard to trade these headlines either way, and we're not fading the decline. Energy stays with us as a hedge that pays to hold.
+
+Debt we can't see?
+
+A new risk is forming around the AI trade, and this one is about financing rather than capability. The FT put roughly $300bn of residual-value guarantees written by Big Tech in the last twelve months, which lets special-purpose vehicles carry the debt while the guarantor books nothing until the leases start. Add Anthropic's listing slipping to November, OpenAI's projected cash burn, and a wobble in debt tied to an Oracle-linked data centre, and the story assembles itself into a credit event. We'd slow that down. A guarantee is not the same thing as leverage, and nothing this week said anything about whether the demand is real. What changed is where the cash is coming from and how visible it is. The more interesting angle is political: this is the start of a disclosure and accounting fight, and Washington has noticed (Trump's "AI czar" and Newsom's executive order are both responses to pressure rather than policy). Our view is that this is a disclosure question, not yet a solvency one, so when the re-rating comes it lands on the multiple rather than on earnings, and crowding in the pick-and-shovel names means it won't be gentle.
+
+One to watch: Germany votes today in Berlin and Mecklenburg-Vorpommern, and for Merz the CDU's own number matters more than the AfD's.
+
+Best,
+Ju
+
+Sources:
+
+Vital Weekend, 20 September 2026
+Vital Talking Points, week ended 18 September 2026
+Fed hikes to 3.75%-4%, CNBC
+BoJ raises rate to 1.25%, Nikkei Asia
+Bank rate maintained at 3.75%, Bank of England
+UK CPI August 2026, ONS
+Oil finishes the week flat as Saudi pipeline outage seen as less disruptive, CNBC
+Big Tech keeps $300bn AI debt off balance sheet
+OpenAI forecasts cash burn near $280bn by 2030, Reuters/FT
+Anthropic delays IPO to November, WSJ via Yahoo Finance
+Two German states go to the polls, Al Jazeera
+
+═══════════════════════════════════════
+DELIVERABLE 2: Monday presentation, "the week that was"
+═══════════════════════════════════════
+
+PART A: THE WEEK IN ONE WORD
+
+Tightening.
+
+And I mean it in both senses, because that's the story of the week.
+
+Start with the physical. Saudi Arabia's East-West pipeline stayed offline, the Houthis widened their strikes, and the workaround for Hormuz is gone. Supply is tight in a way that shows up at the pump, not in a model. US diesel is at record prices, and motor fuel is now the single biggest contributor to UK inflation.
+
+That physical tightening produced the monetary kind. The Fed raised rates on Wednesday for the first time since July 2023, unanimously, and the dot plot said at least one more this year. Two days later the Bank of Japan went to 1.25%, a 31-year high. The ECB moved earlier this month. Almost every major central bank is now leaning the same way, and they're doing it because of a shock none of them controls.
+
+Then the bond market tightened conditions further on its own. The ten-year touched its highest level since July 2007. The twenty-year auction had to pay up to clear. Gilts hit a nineteen-year high on Monday. That is the part that actually matters for portfolios, because it happened without a single hawkish word.
+
+And the one authority that blinked, blinked on the balance sheet rather than on rates. The Bank of England held, sounded hawkish, and quietly rewrote its entire QT programme to stop selling long-dated gilts. Which tells you where the pressure really is.
+
+Tighter oil, tighter policy, tighter funding. The equity market, remarkably, finished roughly where it started.
+
+PART B: SPOTLIGHTS
+
+1. UK inflation is not accelerating. One basket is.
+
+Headline CPI rose to a five-month high, and the consensus read is that the BoE has an inflation problem and must hike in November. Look at the composition instead. Core held at 2.6% and services were unchanged at 3.4%. The entire move came from transport, where motor fuel inflation jumped from 15.5% to 23.0%. Core goods ticked up slightly, which is the only real pass-through evidence. So a November hike would be insurance against expectations, not a response to underlying inflation. Bottom line: the gilt curve is pricing a policy error and a fiscal problem, not an inflation problem, and those need different trades.
+Overlaps with the "policy mistake" item in the ExCo email.
+
+2. The yen fell on a rate hike. Ask why nobody wanted the currency.
+
+The BoJ tightened and the yen weakened, which the tape explained as two dissents and a soft press conference. Watch the JGB curve instead of the spot rate. JGB yields hit three-decade highs across tenors this week. Three things are driving that: a policy rate finally moving at pace, a fiscal impulse in Tokyo nobody is pricing, and a domestic investor base that for the first time in a generation can earn a real yield at home. The market's fear is that Japan sells Treasuries to defend the currency. Bottom line: that's the wrong channel. The risk to the US long end is slow, structural repatriation as Japanese yields clear, and it doesn't need a currency crisis to happen.
+
+3. A four-year high in the yuan that Beijing is leaning against.
+
+Offshore yuan broke 6.70 on Friday, the strongest in four years, days before Xi arrives in Washington. The obvious read is a summit concession. It isn't. The PBOC fixed stronger for an eighth straight session, the longest run since 2023, but every fix was still weaker than the market rate, so the central bank is braking, not driving. What's driving it is exporters converting dollars against a very large monthly trade surplus, helped by rate differentials as the Fed hikes. Bottom line: Beijing gets the optics of a stronger currency without giving anything away, and if the surplus keeps converting the strength outlasts Thursday's meeting, which is a margin problem for Chinese exporters and a small disinflationary gift to everyone else.
+
+═══════════════════════════════════════
+DELIVERABLE 3: Key Topics (updated every week)
+═══════════════════════════════════════
+
+Three of the world's biggest central banks hiked this month, and the Fed's was the unanimous one. The FOMC went 25bp to 3.75%-4.00% on Wednesday, 12-0, its first increase since July 2023, with 16 of 18 dots pointing to at least one more this year and the neutral dot marked up. Warsh said the Committee would be "hard-pressed" to call policy restrictive. Markets price roughly a 55% chance of an October move. The BoJ followed on Friday to 1.25%, a 31-year high, but a 7-2 vote and no forward commitment sent the yen lower rather than higher.
+
+The long end did the tightening the central banks didn't have to. Ten-year Treasuries touched 5.04% on Tuesday, the highest since July 2007, and finished around 5.01%. The 20-year auction cleared at 5.42% with a 2bp tail, the richest yield since the tenor was reintroduced in 2020. Ten-year gilts hit a 19-year high of about 5.42% on Monday before settling near 5.28%, and the BoE answered with a QT rewrite rather than a rate move: £46bn a year to 2034, £20bn of active sales, and £120bn of the longest gilts retained permanently.
+
+Escalation went up and crude went down, which tells you what is actually priced. Houthi attacks on Saudi cities widened and the East-West pipeline stayed shut, yet oil fell three straight sessions into Friday once Riyadh signalled roughly half the line could restart within days. WTI finished the week close to flat just under $100, having touched a four-month high mid-week. US diesel at record prices is the real pressure point.
+
+The AI debate moved from safety to financing, and the index split shows where the money sat. The Dow shed 1.7% while the Nasdaq gained 0.7% and the equal-weight S&P trailed the cap-weighted index by more than 100bp. Amodei's pacing letter hit AI names on Monday and they recovered by Friday. The weekend story is the FT putting roughly $300bn of Big Tech residual-value guarantees on the last twelve months, alongside Anthropic's IPO slipping to November and OpenAI projecting close to $280bn of negative free cash flow through 2030.
+
+Key events this week. Flash PMIs for the eurozone, UK and US on Wednesday. Trump hosts Xi at the White House on Thursday, with a truce extension widely expected. UN General Assembly runs Tuesday to Sunday, Iranian officials attending. SNB, Riksbank and Norges Bank all decide Thursday, all expected unchanged. German IFO Thursday, UK public finances Tuesday, US durable goods and final Michigan on Friday. Earnings from AZO (Tues), CTAS, GIS and PAYX (Wed), DRI and SNX (Thurs am) and COST (Thurs pm). Zuckerberg keynotes Meta Connect on Wednesday. Fedspeak resumes: Goolsbee Monday, Williams and Jefferson Tuesday, Barr Wednesday, Hammack Thursday, Bailey and Williams together on Friday.
+
+Our message: the binding constraint across every asset class is the long end, not the policy rate. We stay neutral duration while the market prices the hawkish dots, but an entry point is nearing, because a 5% ten-year alongside flat core inflation and cooling housing is compensation for a price shock rather than a rate problem. We keep energy as a positively-carried hedge, and we stay invested in the AI buildout while treating the financing structure, not the demand, as the thing that needs watching.
+
+───────────────────────────────────────
+Material corrections
+───────────────────────────────────────
+
+OpenAI cash burn. Vital Knowledge reported "-$280B in free cash flow between 2026-2030". The FT figure is $278bn. Published as a round $280bn it reads as a precise number that is wrong by $2bn; "close to $280bn" is the honest form and is what I have used. (Reuters/FT via Investing.com)
+
+BoE QT. Vital Knowledge described only the "£120B of the longest-dated gilts remaining permanently"; StreetAccount described only the "£46B annual average to end-2034, £20B of active sales". Both are correct and each on its own is misleading. The full decision is £46bn a year to zero by end-2034, £20bn of active sales alongside redemptions, £222bn of pre-2035 maturities held to maturity, £120bn of the longest-dated retained permanently to back banknote issuance, and a pause on sales until April 2027 pending consultation on selling direct to the DMO. (Bank of England)
+
+Saudi East-West pipeline strike date. StreetAccount's EU recap dates the drone strike to 11 September. Contemporaneous reporting dates it to 10 September. I have kept the date out of the body. (CNBC)
+
+Fed dots. StreetAccount's US weekly recap said "the dot plot showed median expectations for another hike this year"; the Week Ahead note and the underlying reporting say 16 of 18 participants, with four seeing two more, and that Warsh does not submit a dot. The stronger and correct framing is 16 of 18. (Yahoo Finance live blog)
+
+UK CPI attribution. StreetAccount's EU recap reads "UK pump prices, the largest contributor to Aug CPI at 3.1%", which invites the reader to take 3.1% as the fuel contribution. 3.1% is the headline y/y rate. Transport was the largest contributor, rising to 4.6% from 3.6%. (ONS)
+
+WTI Friday move. StreetAccount's own market recap says "WTI crude (October) finished down 1.6%" in the synopsis while its data table says -$2.21 or -2.17% to $99.70. The data table is internally consistent; the synopsis line is not. Used the weekly framing instead.
+
+───────────────────────────────────────
+Verified as written
+───────────────────────────────────────
+
+Fed hiked 25bp to 3.75%-4.00% on 16 September, 12-0, first hike since July 2023; ~55% priced for October.
+
+BoJ hiked 25bp to 1.25% on 18 September, 31-year high, 7-2 with Asada and Sato dissenting; yen fell.
+
+BoE held Bank Rate at 3.75%, 6-3.
+
+UK August CPI 3.1% y/y, five-month high, up from 2.9%; core 2.6%, services 3.4% unchanged; motor fuel 23.0% from 15.5%; diesel 181.8p/litre.
+
+10-year Treasury reached 5.041% on 15 September, highest since July 2007.
+
+20-year auction 15 September: $13bn at 5.42%, 2.0bp tail, highest yield since the tenor returned in March 2020.
+
+Weekly index performance: Dow -1.7%, S&P -0.1%, Nasdaq +0.7%, Russell 2000 -1.5%; equal-weight S&P lagged cap-weighted by more than 100bp.
+
+WTI (Oct) finished Friday at $99.70; US crude finished the week roughly flat.
+
+FT: roughly $300bn of Big Tech residual-value guarantees over twelve months; Google's data-centre lease backstop rose from $16.9bn to $43.8bn in six months; Nvidia $105bn to SB Energy.
+
+Anthropic IPO moved to November; ARR above $65bn as of July, projections of $100-110bn by year-end.
+
+Offshore yuan through 6.70, four-year high; PBOC fix 6.7065, eighth consecutive stronger fixing, longest run since 2023, all fixes still weaker than market.
+
+Germany: Saxony-Anhalt, 6 September, AfD 43.8% (from 20.8%), CDU 17.2% (from 37.1%); Berlin and Mecklenburg-Vorpommern voting today, CDU polling around 6% in MV against a 5% threshold.
+
+Germany August PPI +4.6% y/y vs +4.1% consensus; UK August retail sales +0.5% m/m vs -0.2% expected.
+
+China August: retail sales +0.4% y/y (cons +0.8%), industrial production +5.2% (cons +4.8%), fixed asset investment -7.2% YTD.
+
+───────────────────────────────────────
+Does not reconcile
+───────────────────────────────────────
+
+Brent's mid-week high. StreetAccount's Asia recap says Brent "settled near $109/bl on Tuesday, a four-month high"; StreetAccount's EU recap says Brent "pushed through $107"; one wire quotes $109.01 intraday on 15 September; a market-data page gives the four-month high as $106; another gives $107.46. Genuine disagreement about magnitude. No Tuesday Brent level used in the body.
+
+Brent's Friday close. Quoted variously at $102.41, $103.20 (Vital Knowledge), $103.8, and $104.46 (StreetAccount sector note at 16:00 UTC). More than a rounding spread. Used WTI, which reconciles across two sources.
+
+UK fiscal headroom damage. Bloomberg Economics puts the erosion of Healey's £23.6bn March headroom at about £12bn; the Telegraph headline cited by StreetAccount says £15bn. The ~£10bn consolidation requirement for the 28 October Budget is separately and consistently reported, so that is the figure used.
