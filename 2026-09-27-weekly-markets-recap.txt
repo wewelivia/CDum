@@ -1,0 +1,122 @@
+═══════════════════════════════════════
+DELIVERABLE 1: "Top of mind for clients" email
+═══════════════════════════════════════
+
+Subject: Top of mind for clients: five handles, the wrong barrel, and no power
+
+Team,
+
+Is 5% the breaking point?
+
+The 10-year touched its highest level since 2007 this week and equities went up anyway. Clients want to know whether there is a level that finally bites. We would stop asking about the level and start asking about the composition. Inflation expectations in the Michigan survey did not move at all this week, so what repriced was the real rate, on strong activity data, hawkish Fed speak and a run of poorly received auctions. That is a very different animal from a credibility problem, and it is why the index absorbed it. The risk we would not wave away is that the absorption is narrow: the same handful of names carrying the index are being repriced upward on demand news faster than the discount rate is rising against them, and the median stock is not. Look at small caps and you can see where the damage has already gone. Our view is that this is a growth-and-supply backup rather than a funding accident, we stay neutral duration, and we think the entry point is getting closer rather than further away.
+
+Is the oil story over?
+
+Crude fell for a second straight week on Hormuz diplomacy, and Trump then rejected Iran's seven-day proposal at the weekend. We would be careful about reading the crude tape as the end of the energy shock, because the shock has moved downstream. European diesel's premium to crude hit a record this week, the widest in data going back to 2011. That is a refining and product-supply problem, and refining capacity cannot be conjured on a political timetable. You can see governments reaching that conclusion in real time: Washington floated a diesel export ban, Rome is convening refiners, Berlin cuts fuel duty from 1 October. Our view is that fading energy on ceasefire headlines is the wrong trade, the persistence sits in the product market rather than the barrel, and we continue to hold energy as a positively carried hedge.
+
+Out of power?
+
+A new risk showed up in the AI trade this week and it deserves to be taken seriously: for the first time, the buildout ran into a hard physical constraint rather than a financing one. Oracle issued a force majeure notice on its New Mexico campus after the gas pipeline serving the site slipped by roughly six months on permitting, and the market briefly priced it as a credit event. It probably is not one. Oracle is not walking away from the project, it is protecting payment timing, and reporting suggests it still carries the power risk itself. The more interesting read is that the binding constraint has moved from chips to electrons and permits, which makes the swing variable a regulatory and local-political one rather than an engineering one, and that is a much slower thing to fix. Meanwhile the demand leg broadened in a way we did not expect, toward inference and agentic workloads and, in Akamai's case, toward CPU rather than GPU capacity. Our view is that we stay constructive on compute demand and increasingly wary of anything whose schedule depends on an interconnection queue.
+
+One to watch: the UK Budget on 28 October, where the Chancellor looks minded to accept a thinner fiscal buffer rather than raise taxes further, at precisely the moment gilt yields are least forgiving of that choice.
+
+Best,
+Ju
+
+Sources:
+
+StreetAccount US/EU/Asia Weekly Recaps, 25-Sep-26
+10-year Treasury yield hits highest level since 2007, Yahoo Finance, 23 Sep 2026
+Europe Diesel Prices Soar as Trump Threatens US Fuel Export Ban, Bloomberg, 23 Sep 2026
+Trump rejects Iran's seven-day plan to reopen Strait of Hormuz, France 24, 26 Sep 2026
+Oracle sends force majeure notice on New Mexico data center, TechCrunch, 24 Sep 2026
+Akamai announces $11.6bn agreement with Anthropic, 25 Sep 2026
+Autumn Budget: Healey weighs slashing fiscal headroom, City AM
+
+═══════════════════════════════════════
+DELIVERABLE 2: Monday "week that was"
+═══════════════════════════════════════
+
+PART A: THE WEEK IN ONE WORD
+
+Premium.
+
+Everywhere you looked last week, somebody was being asked to pay up for something, and the price of waiting went up.
+
+Start with bonds. The 10-year Treasury hit its highest level since 2007. But look at what actually moved. Consumer inflation expectations in the Michigan survey were unchanged from the flash reading. So this was not a credibility problem. It was investors demanding more compensation for time, for supply and for uncertainty, and the auctions this week told you demand was not there at the old price.
+
+That repricing was not just American. Japan's 10-year reached its highest level since 1996, Australia's since 2011. The one big exception was China, where yields sit near record lows and the gap to Treasuries is the widest we have on record. Two economies, two completely opposite problems.
+
+Then the second premium: fuel. Crude actually fell for a second straight week. But European diesel's premium to crude hit a record. The shock has moved out of the barrel and into the refinery, which is why you had Washington floating an export ban and European governments reaching for fuel subsidies.
+
+And a political premium. France is paying the widest spread over Germany since 2012. In Germany, the Chancellor's party was wiped out of a state parliament for the first time in its history.
+
+So: pay more for time, pay more for fuel, pay more for politics. The one thing investors were still happy to pay up for was AI, and that is the whole story of why the index rose in a week like that.
+
+PART B: SPOTLIGHTS
+
+1. The index is hiding the damage
+"Equities shrugged off the bond selloff" is wrong. The Nasdaq made new highs while the Russell 2000 fell on the week and is down roughly 6% this quarter. Stop watching the index and watch the small-cap relative line. Three things are driving that gap: small caps carry floating-rate debt at the short end, where the two-year yield hit its highest in over two years; they have no offsetting AI revenue story; and they are more exposed to domestic freight and fuel costs, which is exactly where the energy shock now sits. Bottom line: if the Fed hikes in October, the index probably keeps working and the median stock does not. (Overlaps with the first item in this week's ExCo email.)
+
+2. This is not a US fiscal story
+The comfortable explanation for the yield backup is American: deficits plus hyperscaler bond supply. Then look at Japan, where the 10-year reached its highest since 1996, and Australia, at a 2011 high. Decompose it. A common oil-driven inflation impulse. The Bank of Japan normalising, which removes the last structural anchor of global duration demand. Genuine AI-related corporate supply. And, cutting the other way, China near record-low yields with the opposite problem. Bottom line: a US-only framing understates how much of this is a change in who the marginal buyer of global duration actually is, and it will not reverse on one soft US print.
+
+3. The Fed is leaning on a survey
+October pricing moved sharply on the flash PMI. Be careful what that number measures. A PMI is a diffusion index. It counts how many firms report an increase, not how large. In a cost-pass-through shock the price sub-indices inflate mechanically, and activity readings can rise on higher nominal revenue. So check the hard data against it. Core durable goods orders genuinely corroborate strength. Michigan sentiment, at a level associated with recessions, flatly does not. Bottom line: the survey and the household are telling opposite stories, and the Fed has chosen the survey.
+
+═══════════════════════════════════════
+DELIVERABLE 3: Key Topics (updated every week)
+═══════════════════════════════════════
+
+The 10-year backed up to its highest since 2007 and equities rose anyway, with the Nasdaq up around 2% and the Russell down 0.8%. Michigan inflation expectations were unchanged, so this was real rates on strong data, hawkish Fed speak and tailing auctions. Around 70% is priced for a hike on 28 October.
+The bond move was global, not American. Japan's 10-year hit a high last seen in 1996 and Australia's the highest since 2011, while China sits near record lows and the gap to Treasuries is the widest on record.
+Crude fell a second straight week while the fuel shock got worse. European diesel's premium to crude hit a record in data back to 2011 after Trump floated a US export ban. Rome is convening refiners, Berlin cuts fuel duty from 1 October, UK pump diesel is near an all-time high.
+AI demand broadened just as the buildout hit a wall. Akamai signed $11.6bn over seven years with Anthropic for CPU capacity and Meta rose ~13% on Muse adoption, while Oracle issued force majeure on its New Mexico site over a permitting-delayed pipeline.
+Europe leaned hawkish into political stress. Norges hiked 25bp to 4.50%, the SNB and Riksbank held, BoE deputies moved toward a November hike, Schnabel left for the IMF, the AfD won a German state outright and France's spread to Bunds hit its widest since 2012.
+Key events this week: Tuesday brings OpenAI DevDay, US consumer confidence and JOLTS, and the RBA (a hike is near fully priced). Wednesday is quarter-end, with August core PCE, ADP, German and French flash CPI, China PMIs and Micron after the close, plus the Oura and Accelevation IPOs. Thursday brings ISM manufacturing, the BOJ Tankan and Nike. Friday is payrolls, eurozone flash CPI and Tokyo CPI. Burnham speaks at the Labour conference Tuesday.
+Our message: the thing that matters is that this backup is real rates on growth and supply, not a loss of policy credibility, which is why risk assets have coped. We remain neutral duration but believe an entry point is nearing, and we would rather add on the long end than the front end while October is live. We stay long energy as a positively carried hedge, with the persistence now in refined products rather than crude. In equities we stay with compute demand and away from the median domestic small cap.
+Flags
+
+Material corrections
+
+US flash PMI mislabelled. StreetAccount's US Weekly Recap reports "the September flash composite PMI jumped to 58.7, its highest level since Jul-21." 58.7 was the services flash; the composite was 58.4 and manufacturing 57.0. Published as written it would overstate breadth of the activity surprise and misdescribe what moved October pricing. The "since Jul-21" vintage could not be stood up either; sources describe 58.4 variously as a 54-month high and a five-year high. (InvestingLive, Newsquawk, Yahoo Finance, 23 Sep)
+10-year vintage wrong. StreetAccount calls the 10-year "new post-GFC highs (highest since Jun-06)." Contemporaneous reporting puts it at the highest since 2007, a 19-year high. Corrected in the body. (Yahoo Finance, CNBC, 26 Sep)
+SoftBank bond size off by 10x. The Asia Weekly Recap says SoftBank "issued $110B of dollar- and euro-denominated junk bonds." The deal was $10bn plus €1bn, priced 24 September, rated BB+. StreetAccount's own US and Japan pieces say $11bn/$11.1bn in the same file. Kept out of the deliverables. (Japan Times, Bloomberg)
+"October hike" printed as "September hike." StreetAccount's US Week Ahead says markets price "a 70% chance of a September hike." September's FOMC already happened on 16 September (25bp, 12-0, to 3.75%-4.00%). The contract is the 27-28 October meeting. (CNBC, 16 Sep, CNBC, 23 Sep)
+Akamai/Anthropic deal size. The EU recap calls it "$12B." It is $11.6bn over seven years, expandable by up to $9bn to roughly $20bn, with a warrant for up to ~5% of Akamai stock. (Akamai press release, TechCrunch)
+PCE consensus mislabelled. The US Week Ahead gives August PCE consensus as "+3.7% for headline and +3.3% for core m/m." Those are y/y rates. Left out of the events bullet rather than reproduced.
+Schnabel's departure date. StreetAccount says "she will leave in January." Effective date is 3 January 2027, to run the IMF's market department. (Bloomberg)
+
+Verified as written
+
+Weekly index moves: Dow +0.3%, S&P 500 +1.2%, Nasdaq +2.1%, Russell 2000 -0.8%; Dow snapped a three-week losing streak. Double-sourced (TheStreet, StreetAccount).
+Fed funds 3.75%-4.00% after a 25bp hike on 16 September, 12-0; next meeting 27-28 October, ~73% priced at the CME as of 23 September.
+European diesel premium to Brent above $95/bbl, a record in Bloomberg data back to 2011; Trump's diesel export remark 22 September; White House denied a prepared 90-day restriction.
+Oracle force majeure to Stack Infrastructure on Project Jupiter (2.45GW); Energy Transfer pipeline pushed back roughly six months to 1 February 2027; Oracle says the schedule is intact.
+Norges Bank +25bp to 4.50%; SNB held at 0%; Riksbank held.
+Mecklenburg-Vorpommern, 20 September: AfD won, CDU 4.9%, below the threshold and its worst postwar state result; follows AfD at 44% in Saxony-Anhalt two weeks earlier.
+OAT-Bund 10-year spread above 110bp, widest since 2012.
+Trump-Xi truce extended two months to 10 January; no other concrete deliverables.
+Trump rejected Iran's seven-day Hormuz plan on Saturday 26 September (after the week covered).
+Anthropic: appeals court upheld the DoD supply-chain-risk designation on 25 September; IPO reported for November.
+JGB 10-year around 3.05-3.08%, highest since August 1996; 30-year around 4.18%.
+UK: Budget 28 October; OBR March headroom £23.6bn, now estimated near £12bn (Deutsche Bank estimate, attributed as such).
+
+Does not reconcile
+
+Brent level. Four incompatible readings for 25 September: StreetAccount sector piece $106.15; Fortune/convextrade $105.69 (and "+8.47% d/d", inconsistent with a down week); a 9am ET quote of $102.75; and StreetAccount's Asia recap saying Brent was "just a shade below $100/bl". No Brent level used in any deliverable. Needs a clean settlement pull.
+US 10-year close. 5.16% (StreetAccount), 5.17% (CNBC), 5.18% intraweek high (24/7 Wall St), 5.12% intraweek high on 23 Sep (Yahoo). Rounding and intraday-versus-settle, so described as "highest since 2007" without a decimal.
+October hike probability. 66% (StreetAccount weekly), 70% (StreetAccount week ahead, and Yahoo on 23 Sep), 73% (CNBC citing CME, 23 Sep). Written as "around 70%".
+September payrolls consensus. +85k (StreetAccount weekly recap) versus +100k (StreetAccount week ahead), both against August's +162k. Kept out of the events bullet.
+UK consumer confidence read. The EU recap says GfK "hit a two-year high" and, two paragraphs later, that details "suggested sentiment is weakening". Print was -13 versus -14 prior and -16 consensus. Not used.
+
+Unverified
+
+2-year Treasury "above 4.90%, highest level in over two years" (StreetAccount only).
+30-year at 5.49% on Friday's close (StreetAccount only).
+Australia 10-year at 5.4%, highest since 2011, and Taiwan 10-year at an 18-year high (StreetAccount only). Used in Deliverable 2 with Australia only.
+Current US-China 10-year gap. The record 317bp print is sourced to 10 September with the UST at 4.85%. With the UST now above 5.15% the gap is wider, but no dated print for the week was found. Written as "widest on record" without a number.
+BoE November hike "roughly 80% priced" and "a little over four quarter-point increases over the next year" (single aggregator summary). Not used numerically.
+Japan August core CPI +2.6% y/y. StreetAccount describes it as "excluding fresh food and special factors" in one place and "excluding food and special factors" in another; those are different series. Not used.
+Meta's +12.9% weekly move (StreetAccount only; the ~20% move since the Muse launch is separately sourced). Written as "~13%".
+Vital Knowledge was not readable this week. The homepage loaded in the connected browser but the session is signed out, so the Vital Weekend and Vital Talking Points pieces returned paywall stubs. No VK framing was used. Headlines visible on the index page suggest VK's week-in-one-line was "a battle between yields and Muse", which is consistent with the above but was not read in full.
