@@ -1,0 +1,65 @@
+Market Matters — draft for Monday 5 October 2026
+What's moving markets?
+Nowhere to hide
+
+Last week we noted that US government bond yields had passed 5% across most borrowing periods, and that our investment team remained relatively cautious because yields could still move higher. They did, within days. The 10-year US Treasury yield touched 5.34% on Thursday, its highest since 2002, capping a quarter in which it rose 87 basis points, the sharpest quarterly increase since 1994. The 30-year reached 5.683%, a 24-year high.
+
+This was not an American story. Thirty-year UK gilt yields climbed above 6% for the first time since 1998, French 10-year borrowing costs hit their highest since 2002 after their worst quarter since 1987, and German 10-year yields reached 3.633%, last seen in mid-2009. Yields then reversed on Thursday afternoon. Shares held up in America, where the S&P 500 closed 0.19% higher at 7,666.45. Europe fared worse: the Stoxx 600 fell 1.3% to its lowest close since June and the FTSE 100 dropped 1.7%, its worst session since May.
+
+[Your view here]
+
+A softer print that changed little
+
+We flagged August core inflation as last week's key release, with consensus at 0.3% on the month. It came in at 0.2%, taking the annual rate on the Fed's preferred measure to 3.0% against the 3.3% expected. Part of that improvement reflects long-expected changes to how the figures are compiled rather than a change in the underlying trend.
+
+Two senior officials did the rest. New York Fed President John Williams said on 29 September there was "no need for urgency", and Vice Chair Philip Jefferson said on 1 October that reaching a judgement "may take more time". Market-implied odds of an increase at the 27 to 28 October meeting fell to around 26% by Thursday, from 68.6% a week earlier, while December odds rose to 63.2%. September payrolls were due on Friday, with consensus at 100,000 jobs and unemployment at 4.1%.
+
+China turns off the taps
+
+Last week we reported US diesel above $6 a gallon and talk of temporary export restrictions. That threat has now been pointed at Europe: Washington has told Germany and France to draw down emergency diesel stocks or face a US export ban, and has asked the EU to release 120 million barrels over six months. Supply then tightened from the other direction, as Chinese refiners suspended product exports beyond Hong Kong and Macau and December Brent settled 4.37% higher at $102.31 a barrel.
+
+What does this mean for investors?
+Can France's budget calm its bond market?
+
+In September we flagged France's draft 2027 Budget as a date to watch. Prime Minister Sebastien Lecornu presented it on 1 October: 43 billion euros of new measures, cutting the deficit to 5% of GDP next year from 5.4% this year. Public debt is still expected to reach 121.7% of GDP in 2027, and the debt agency plans a record 340 billion euros of issuance. Markets were unconvinced. The 10-year French yield rose to 4.95% and the gap over Germany widened to around 1.30 percentage points, compared with 0.55 points at the start of the year, and the CAC 40 fell 1.6% to its lowest since late March. A parliamentary vote is expected on 17 November. Inflation is not helping: German inflation rose to 3.3% in September and French to 3.4%, with the euro-area estimate due on Friday and consensus at 3.6%. We said in August that Europe's momentum looked stretched.
+
+[Your view here]
+
+Who is actually borrowing all this money?
+
+Governments are not the only ones competing for capital. Goldman Sachs estimates the largest cloud computing companies have issued 229 billion dollars of debt so far this year and could issue 420 billion dollars in 2027, an increase of more than 60%. BNP Paribas puts AI infrastructure at 40 billion dollars of US high-yield bond supply this year, against 12 billion dollars in the whole of 2025. More borrowers chasing the same pool of savings is one reason long-term yields rose even as inflation data improved.
+
+[Your view here]
+
+Does 6% change the case for longer-dated bonds?
+
+Last week we noted that five-year US Treasuries offered a similar yield to 10-year bonds without asking investors to commit for as long, and that our investment team remained cautious. The UK poses a sharper version of the question. Thirty-year gilt yields touched 6% before easing to 5.93%, with 10-year gilts at 5.40%, and The Telegraph notes it is the first time since Italy in 2012 that a G7 country has paid more than 6% to borrow for 30 years. Chancellor John Healey delivers his first Budget on 28 October.
+
+[Your view here]
+
+What are we looking at this week?
+US bond auctions
+
+The Treasury sells 58 billion dollars of three-year notes on Tuesday, 39 billion dollars of reopened 10-year notes on Wednesday and 22 billion dollars of reopened 30-year bonds on Thursday. Demand at the long end matters more than usual.
+
+Fed minutes
+
+Minutes from the September meeting, at which the Fed raised rates by 0.25 percentage points to a range of 3.75% to 4.00%, are published on Wednesday. Investors will look for how close the committee came to signalling a second rise.
+
+China's export permits
+
+Golden Week ends on 7 October. Whether Beijing grants fresh permits to export diesel, petrol and jet fuel will shape an already tight fuel market.
+
+Metrics that matter
+
+6% The level UK 30-year gilt yields reached on Thursday, the first time since 1998 that the government has had to offer that much to borrow for 30 years.
+
+26% The market-implied probability of a US rate rise in October as of Thursday, down from 68.6% a week earlier after two senior Fed officials signalled patience.
+
+3.0% US core inflation on the Fed's preferred measure in August, against the 3.3% expected, though part of the fall reflects a change in how the data is compiled.
+
+1.30 percentage points The extra yield France pays over Germany to borrow for 10 years, the widest gap since 2012 and up from 0.55 points at the start of the year.
+
+14% The rise in the front-month Brent crude oil contract during September, before a further jump on 1 October when China suspended fuel exports.
+
+23 zettajoules The record amount of heat absorbed by the world's oceans last year, almost 40 times all the energy used by humanity over the same period.
