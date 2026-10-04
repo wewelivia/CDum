@@ -1,0 +1,68 @@
+DELIVERABLE 1: Top of mind for clients
+
+Subject: Top of mind: yields, Europe, oil
+
+Team,
+
+Why are yields still rising?
+The data softened and the Fed backed away from an October hike, yet the US 10-year touched its highest level since 2002 and barely came off it. That tells you this probably isn't a Fed story. A pause helps the front end, but the long end is being repriced by things the Fed doesn't control, chiefly the amount of debt being sold and the price of energy. The risk worth naming is a central bank that looks soft under political pressure, because that pushes long yields up rather than down. We don't think we're there, and the market is short enough for sharp relief rallies like Thursday's. Our view: we're in no rush to add duration, but the entry point is getting closer.
+
+Is Europe the weak link?
+France now pays more to borrow than Italy, and its gap to Germany is the widest since the euro crisis. That deserves standing as a risk in its own right: Thursday showed it can travel, with Italy and Greece dragged along. But look at what moved. A good part of the widening came from Bunds rallying, which is money hiding inside the euro area and not leaving it. The politics may even help, since no party gains from a funding scare months before a presidential election. The UK rhymes: 30-year gilts at 6% with a Budget due on 28 October, and a Prime Minister who chose this week to reopen the Europe question. Our view: this is a risk premium problem more than a solvency one, it stays noisy until both budgets are through, and we aren't treating wider spreads as a bargain yet.
+
+Has Washington won Hormuz?
+On crude, mostly. Escorted tankers have brought Gulf exports a long way back, and some triumphalism is creeping in. Yet Brent is still around $100, because the shortage has moved downstream into refined products, diesel above all. That explains both the G7 stock release and Washington's threat of an export ban on its own allies. The risk is the calendar: talks have stalled and the President says strikes after the midterms are "possible", which probably means calm until 3 November and a real decision after it. We still think a negotiated exit is the most likely outcome, but it's hard to trade and we aren't trying to. Our view: this remains a price shock and not an inflation problem unless diesel starts feeding wages, and energy keeps its place as the hedge.
+
+One to watch: the AI trade's appetite for capital. Anthropic's reported investor day on 14 October lands in a market that has started pushing back on new paper.
+
+Best,
+Ju
+
+Sources:
+
+Vital Knowledge, Talking Points recap, week ended 2 Oct
+Vital Knowledge, Vital Weekend, 4 Oct
+StreetAccount US Weekly Recap, 2 Oct
+StreetAccount EU Weekly Recap, 2 Oct
+CNBC, Treasury yields, 2 Oct
+Reuters, Fed policymakers lean against October hike, 1 Oct
+Yahoo Finance, bonds steady as French borrowing costs hit 24-year high, 2 Oct
+Il Sole 24 Ore, BTP-Bund spread, 1 Oct
+BBC, G7 to release 100 million barrels, 2 Oct
+CNBC, third carrier group to Mideast, 2 Oct
+BBC, Burnham on a future EU referendum, 30 Sep
+DELIVERABLE 2: Monday presentation
+
+PART A: THE WEEK IN ONE WORD
+
+My word this week is yield. And I mean it both ways.
+
+Start with the obvious one. The US 10-year hit its highest level since 2002. The 30-year gilt went through 6% for the first time since 1998. French borrowing costs are back at 2002 levels as well.
+
+Now the other meaning, because the interesting part is who gave way. The Fed yielded first. Two weeks after hiking, Williams and then Jefferson told us there was no urgency, and the odds of an October move went from roughly 70% to about 20%.
+
+Then the data yielded. A cooler inflation print on Wednesday, and just 29,000 jobs on Friday.
+
+Then Europe yielded to Washington, signing up to a G7 release of 100 million barrels after the threat of a US diesel export ban.
+
+So the Fed blinked and the data softened. Oil even got a supply response. That's everything a bond bull could ask for. And the 10-year still closed the week at about 5.28%, a few basis points from the high.
+
+That's the message. When everybody yields and yields don't, the problem isn't the next Fed meeting. It's the amount of debt being sold and the price of energy. Equities are saying the same thing quietly: the index barely moved, but the average stock has now fallen seven weeks running.
+
+So this week, skip the Fed minutes. Watch the 10 and 30-year auctions.
+
+PART B: SPOTLIGHTS
+
+1. The inflation that got measured away. Wednesday's PCE read as disinflation, with core at 3.0% against 3.3% expected. Most of that gap was the statisticians. The BEA changed how it prices three service categories, led by portfolio management fees, and that took roughly a third of a point off core. So look at the gauges that weren't touched. CPI on 14 October carries none of those changes, and the ISM prices index just jumped to 77.9. Bottom line: the Fed's target measure got easier to hit in the month the others turned up, and December hinges on which one it believes.
+
+2. The correction you can't see. The S&P 500 lost 0.3% and the Nasdaq touched a record, which looks like a market shrugging off 5% yields. It isn't. The equal-weight index has fallen seven weeks in a row, something seen only in 2002 and 2022. So watch the gap between the average stock and the index. Two forces drive it: yields are hitting banks and property, while AI names are treated as the safe haven. Bottom line: the correction is already under way beneath the surface, and a sample of two bear markets is too thin to say how it ends.
+
+3. France, or Germany? The headline is France's spread at its widest since 2012, and the obvious read is investors dumping French bonds. Half true. Most of Thursday's widening came from Bund yields falling. So watch the Bund. Four things push money into Germany: a budget facing a divided parliament, an election next spring, a foreign-heavy holder base in French debt, and an ECB that markets no longer expect to hike into this. Bottom line: Bunds rallying with inflation at 3.8% is fragmentation, and it ties the ECB's hands long before it threatens French solvency. (Overlaps with the Europe item in the ExCo email.)
+
+DELIVERABLE 3: Key Topics (updated every week)
+Global bonds sold off again, taking the US 10-year to about 5.34%, its highest since 2002, before a close near 5.28%. The 30-year gilt broke 6% for the first time since 1998.
+The Fed talked itself out of an October hike: Williams and Jefferson cut the odds from roughly 70% to about 20%. Payrolls helped (just 29k in September, unemployment 4.2%), though core PCE's fall to 3.0% owed much to methodology changes.
+France became Europe's pressure point, with the OAT-Bund spread past 140bp, the widest since 2012, after a 2027 budget that only targets a 5% deficit. Eurozone inflation hit 3.8%, a three-year high (core 2.5%), yet ECB hike bets faded.
+US equities slipped, but the index hides the damage: the equal-weight S&P 500 fell for a seventh straight week (last seen in 2022) while semis rallied on Micron and Nvidia's record $150bn buyback. Brent held near $100 despite a 100m-barrel G7 release.
+Key events this week: ISM services (Mon); 3-, 10- and 30-year Treasury auctions (Tue to Thu); RBI decision and FOMC minutes (Wed); PepsiCo, Tesco and the Holborn & St Pancras by-election (Thu); Delta and Michigan sentiment (Fri).
+Our message: The long end is what matters. Yields rose in a week when the Fed stepped back and the data softened, so the problem is supply and energy, not the policy rate. We remain neutral duration but believe an entry point is nearing; this week's auctions and CPI on 14 October are the tests.
