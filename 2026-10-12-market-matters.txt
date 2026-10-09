@@ -1,0 +1,81 @@
+Market Matters — draft for Monday 12 October 2026
+What’s moving markets?
+A record, then a revenue question
+
+US shares set new highs last week, then stumbled over a question about AI revenue. The S&P 500 closed at a record 7,818.93 on Tuesday, its first record close since August [†], before slipping to 7,765.36 by Thursday.
+
+The trigger was a Financial Times report that OpenAI had told investors its annualised revenue was nearing $50 billion, about $20 billion below the figure previously reported. Chipmakers, which have risen by more than 80% this year, fell 3.4% on Thursday and the Nasdaq lost 1.25%. A person familiar with the documents said the higher figure did not come from OpenAI and was calculated on a different basis.
+
+Bond auctions pass the test
+
+Last week we said the US government’s 10-year and 30-year bond sales would give another indication of demand. Both drew above-average bidding. The 10-year US yield reached 5.36% on Wednesday morning, near its highest level since 2002, before $39 billion of 10-year bonds sold at 5.30%, the highest auction yield since November 2000. Investors bid for 2.77 times the amount on offer. Thursday’s $22 billion 30-year sale drew bids of 2.54 times, and the 30-year yield fell to 5.60% from 5.73% that morning.
+
+The UK had less relief. The 30-year gilt yield rose to 6.03% on Wednesday, its highest since 1998, with the Budget due on 28 October.
+
+The Fed is in no hurry
+
+We also flagged the minutes of the Fed’s September meeting. They showed most officials thought “another increase in the target range for the federal funds rate would likely be appropriate by year end”, while approaching “each meeting with an open mind”.
+
+A day later, Fed Governor Christopher Waller said there was “some flexibility about when those hikes will occur”. He noted that futures markets saw an 85% chance of at least one rise by the end of the December meeting. That compares with our description last week of a December increase as possible rather than certain.
+
+What does this mean for investors?
+A high bar for company profits
+
+Two weeks ago we called the third-quarter results “an important test of whether profits are growing strongly enough to support current share prices”. That test begins this week. Analysts forecast earnings-per-share growth of nearly 30% for S&P 500 companies.
+
+[Your view here]
+
+Oil stays in its range
+
+Brent crude has swung between $96 and nearly $110 a barrel over the past month. On Thursday it rose 4.1% to $104.28 after attacks on shipping around the Strait of Hormuz and a hurricane that cut US output.
+
+There were forces pulling the other way. The US president said “productive discussions” were taking place with Iran and that the US would not attack before November’s elections. Members of the International Energy Agency also backed speeding up the release of emergency oil stocks, with priority given to diesel.
+
+[Your view here]
+
+France: louder streets, same sums
+
+Last week we flagged France’s day of action on 6 October, and noted that large school protests have come round every five years or so. This one drew 256,000 people according to the Interior Ministry, and classes were suspended at 891 schools.
+
+In bond markets, the gap with Germany narrowed. France’s 10-year yield stood at 4.897% on Thursday against 3.498% for Germany, a gap of about 1.4 percentage points (our arithmetic) and below the level of more than 1.5 we reported last week. The budget reaches the floor of the National Assembly on 13 October [†].
+
+[Your view here]
+
+What are we looking at this week?
+US inflation
+
+September’s US consumer price figures are due on Wednesday 14 October, the last inflation report before the Fed meets on 27 and 28 October. Prices rose 3.4% in the year to August, or 2.4% excluding food and energy. Economists expect core prices to have risen 0.2% on the month. Futures imply roughly a 20% chance of a rate rise in October.
+
+Banks open the books
+
+The third-quarter results season starts in earnest on Tuesday 13 October, when JPMorgan and Citigroup are among the first large US banks to report. Investors will look at how higher borrowing costs are affecting lending, and at what the banks say about the health of their customers.
+
+A gathering in Bangkok
+
+Finance ministers and central bankers meet in Bangkok from 12 to 18 October for the annual meetings of the International Monetary Fund and World Bank. The IMF publishes its latest World Economic Outlook on Tuesday. In the UK, August GDP figures follow on Thursday, after growth of 0.4% in July.
+
+Metrics that matter
+
+72
+
+The number of S&P 500 companies that have issued profit guidance above analysts’ forecasts for the third quarter, the most since FactSet began tracking the figure in 2006.
+
+80.3%
+
+The share of last week’s 10-year US government bond sale bought by indirect bidders, a group that includes foreign central banks, against a six-month average of 74%.
+
+107.4 trillion won
+
+Samsung Electronics’ estimated operating profit for the latest quarter (about $80 billion), up from 12.17 trillion won a year earlier. Its shares still fell 2.4% on the day.
+
+63%
+
+The proportion of US Gulf of Mexico oil production shut down by Thursday [†] ahead of Hurricane Isaias, the first hurricane of the 2026 Atlantic season.
+
+12
+
+The number of attacks on tankers around the Strait of Hormuz in the week to 5 October, the most in any week since the war with Iran began, according to maritime security sources.
+
+325 million
+
+The barrels of oil already released from the emergency stocks pledged by International Energy Agency members in March, with roughly another 100 million still to come.
