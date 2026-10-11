@@ -1,0 +1,67 @@
+DELIVERABLE 1: Top of mind for clients
+
+Subject: Top of mind for clients: AI funding, bonds, diesel
+
+Team,
+
+AI running out of money?
+Thursday’s wobble came from a report that OpenAI’s annualised revenue was closer to $50bn than the $70bn doing the rounds. That turned out to be an accounting point (net versus gross), not lost demand, and the scare faded within a day. The risk worth naming sits elsewhere: the buildout is increasingly paid for by capital markets rather than cash flow, so investor appetite is becoming an input into capex. A pulled data-centre IPO and pricier credit protection on the big borrowers suggest that appetite now has a price. We’d call that indigestion, not a buyers’ strike, and a lender asking for more yield isn’t a lender saying no. Our view: the funding channel probably slows the pace rather than breaks the cycle, but Thursday showed how crowded positioning is, and crowded trades don’t need bad news to fall.
+
+Is the bond rout over?
+Long-dated yields hit a 24-year high midweek, and then buyers turned up. Two well-received Treasury auctions and a calmer French market did more for equities than any data point. The risk hasn’t gone away: governments on both sides of the Atlantic are asking markets to fund large deficits while central banks are still tightening, and France shows how quickly that turns political. Still, the selling at the long end looks tired to us, and central bankers have started to talk about bond markets (which matters). Wednesday’s US inflation print is the test, and core matters more than the fuel-driven headline. Our view: we’re happy to let the long end settle, and we see this as stabilisation rather than a turn until the UK Budget and the Fed are behind us.
+
+Can Trump talk diesel down?
+With the midterms three weeks away, the White House ruled out strikes on Iran before the vote and announced a diesel deal with Putin. On Sunday it added an “energy ceasefire” between Russia and Ukraine, which Kyiv says it first heard about from the announcement. The intent matters, because it tells you escalation by Washington is probably off the table for now. But announcements aren’t barrels. The squeeze is in refined products more than crude, the Russian volumes depend on refineries that have been under attack, and the weekend strike on Riyadh’s airport is a reminder that the region isn’t Washington’s to control. Our view: we continue to believe a resolution is the most likely outcome, but this is close to untradeable week to week, and energy stays in portfolios as the hedge.
+
+One to watch: margins. The first Q3 reports showed healthy sales and squeezed profits, which is how we think this energy shock shows up, in earnings more than in core inflation.
+
+Best,
+Ju
+
+Sources:
+
+CNBC, 8 Oct: AI stocks sink on OpenAI revenue report
+Reuters via Global Banking and Finance, 9 Oct: Firmus scraps IPO
+IFR, 9 Oct: hyperscaler and chipmaker CDS at record levels
+CNBC, 9 Oct: Treasury yields steady after volatile week
+CNBC, 9 Oct: French bond yields near 2002 highs
+Reuters, 8 Oct: Bailey says credible budget policy needed more than ever
+CNBC, 8 Oct: Trump says US will not attack Iran before midterms
+Rigzone/Bloomberg, 9 Oct: Oil advances amid war and hurricane risks
+Reuters, 11 Oct: Trump says Russia and Ukraine reached “energy ceasefire”
+Reuters, 10 Oct: Houthi strike on Riyadh airport kills 12
+DELIVERABLE 2: The week that was
+Part A: The week in one word
+
+My word for the week is absorbed.
+
+Start with bonds, because that’s where the week started. The 10-year Treasury yield hit its highest level since 2002 on Wednesday. Then Washington sold 39 billion dollars of 10-year paper and 22 billion of 30-year, and the market absorbed both without fuss. Bond funds took in record money. Yields ended the week lower, and that, more than anything, is why equities finished higher.
+
+But the same market that swallowed government debt gagged on something else: AI paper. A five billion dollar data-centre listing in Australia was pulled, and the cost of insuring the big AI borrowers hit records. Then on Thursday a report on OpenAI’s revenue, which turned out to be an accounting point, knocked more than three percent off the chip index. So investors can absorb supply. They’re getting choosier about whose.
+
+Which brings me to the third thing being absorbed: energy. Delta’s fuel bill rose more than 60 percent, and its profit missed even with sales up strongly. Companies are absorbing the oil shock in their margins. The White House knows it, hence a diesel deal with Putin three weeks before the midterms.
+
+And that sets up Wednesday. US inflation tells us who absorbs the cost next: the company, or the consumer. If it’s still the company, the Fed can wait.
+
+(About 215 words.)
+
+Part B: Spotlights
+
+1. The oil price is the wrong oil price. (Overlaps with the diesel item in the email.)
+Crude says the shock is fading. Brent futures ended the week little changed, and volumes leaving the Gulf have reportedly recovered towards pre-war levels. Look at refined products instead. Physical Brent traded above $135 on Thursday against roughly $105 for futures, and US diesel is still above $6 a gallon. Two things drive that gap. Ukrainian strikes have crippled Russian refining, and inventories are too depleted to cushion further tanker attacks around Hormuz. Bottom line: Washington is finally aiming at the right variable, but a diesel deal needs working refineries, so the pressure on margins outlasts any crude headline.
+
+2. Which inflation is the Fed fighting?
+Everything this week said inflation is hot. Services prices paid hit the highest since July 2022 and household expectations a three-year high. Yet core CPI is running near 2.4%, and that is the number for Wednesday, specifically the monthly core print. Headline should jump to 3.6% or more on fuel alone. Two things keep core down: a labour market adding almost no jobs, and consumers who can’t take another price rise, so costs land in margins. Bottom line: a 0.2% core print makes October a hold and gives bonds room, while 0.3% reopens the argument.
+
+3. France is not the euro crisis. (Partial overlap with the bond item in the email.)
+France now pays more than Italy to borrow, and its gap to Germany touched levels last seen in 2011. The obvious read is euro crisis, part two. Look at the periphery instead: investors were buying Italy while they sold France. So this is a French problem, driven by a budget with no majority behind it and an election in April. Crowded carry trades being unwound made the move bigger. Bottom line: the ECB’s backstop requires fiscal compliance, which France doesn’t meet. The fix is political, and the spread stays wide until a budget passes.
+
+I have no record of the spotlights delivered in recent weeks beyond the 7 September example, so I could not check for repeats. Spotlight 2 is the closest to that one (inflation and the Fed), though the variable is different.
+
+DELIVERABLE 3: Key Topics (updated every week)
+US equities squeezed out a gain on better breadth, though a harmless headline showed how crowded the AI trade is. A report that OpenAI’s annualised revenue was nearer $50bn than $70bn (net versus gross, not lost sales) hit chips. The Russell 2000 fell about 0.9%, a fifth straight weekly loss (the longest run since 2022).
+Treasury selling tired after a 24-year high. The 10-year touched roughly 5.36% (highest since 2002), then closed around 5.25% after solid auctions. Services prices paid ran the hottest since July 2022, yet odds of an October hike stayed below 20%.
+France, not Europe, was the bond story. The OAT-Bund spread topped 150bp (widest since 2011) before easing to about 135bp. Gilts joined in, the 10-year hitting about 5.5% (highest since 2007) before the 28 October Budget.
+Washington went after fuel prices three weeks before the midterms. President Trump ruled out pre-vote strikes on Iran and announced a Russian diesel deal, yet Brent ended near $105 (the squeeze is in refined products).
+Key events this week: LVMH (Mon); JPMorgan, Goldman Sachs, Citi, Wells Fargo and the IMF outlook (Tue); US CPI, ASML, Bank of America, Morgan Stanley (Wed); TSMC, US PPI and retail sales (Thu); Fed Chair Warsh in Bangkok (Fri).
+Our message: Wednesday’s core CPI is what matters. Headline will jump on fuel, but a tame core keeps the Fed on hold in October and lets the long end settle. We remain neutral duration but believe an entry point is nearing.
