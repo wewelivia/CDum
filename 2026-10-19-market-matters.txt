@@ -1,0 +1,85 @@
+Market Matters — draft for Monday 19 October 2026
+What’s moving markets?
+Memory loss
+
+Last week we asked whether markets had become too sensitive to artificial intelligence (AI). This week provided a fresh test. On Tuesday, Chinese memory-chip maker CXMT said it plans to launch a DRAM chip built on a new design before the end of 2026 (Startup Fortune). Reports followed that revenue growth at AI developer Anthropic had slowed in the third quarter, to sales of $16.8 billion (Investing.com via Yahoo Finance, citing the FT).
+
+The selling was fiercest in Asia, where Korean chipmakers fell heavily on Thursday. In the US, the technology-heavy Nasdaq Composite fell 2.4% between Monday and Thursday, while the Dow Jones Industrial Average rose 1% (AP).
+
+Even strong results from TSMC, the world’s largest contract chipmaker, offered little shelter (TSMC).
+
+Hotter than hoped
+
+Last week we noted that economists expected US inflation of 3.6% in the year to September. It came in at 3.7%, up from 3.4% in August (BLS). Petrol prices rose 9.1% in the month alone, accounting for more than half of the overall increase. Core inflation, which strips out more volatile food and energy prices, rose to 2.6%, above the 2.5% expected (InvestmentNews).
+
+We also said markets saw little chance of an October interest rate rise. That changed quickly. The CME FedWatch tool put the chance at 23.8% on Tuesday (InvestmentNews) and 33.8% on Thursday, after producer prices also rose far faster than forecast (InvestmentNews).
+
+US rates sit at 3.75% to 4.00% after September’s increase (investingLive). Speaking in Bangkok on Friday, Fed Chair Kevin Warsh declined to give a signal: “I don’t prejudge meetings” (Reuters via Investing.com). [Your view here]
+
+Hormuz flares again
+
+Energy remains central to the inflation story. The UK Maritime Trade Operations centre recorded 15 attacks on shipping around the Strait of Hormuz between 6 and 14 October, 11 of them in just four days. Brent crude closed at $105.69 a barrel on Tuesday (Al Jazeera).
+
+With US energy prices up 20.4% on a year earlier (BLS), investors are watching the strait and the Fed at the same time.
+
+What does this mean for investors?
+A tale of two markets
+
+The week’s moves were uneven rather than uniformly negative. The S&P 500, an index of 500 of the largest US-listed companies, closed Thursday at 7,744.06, down 0.9% for the week so far and close to the record high it set the week before (AP).
+
+In the UK, the FTSE 100 rose 1.1% on Thursday to 10,840.35, its highest close since 26 August, as investors moved into healthcare and consumer shares with little AI exposure (Reuters via Yahoo Finance; Share Talk). Government bonds also found buyers: the yield on 10-year US government bonds fell to 5.19% on Wednesday, from 5.24% on 9 October (Federal Reserve H.15).
+
+In August, our investment team named one theme we expected to persist into year-end: diversification. [Your view here]
+
+A rate rise before the vote?
+
+The Fed’s next decision is due on 28 October, six days before the US midterm elections. Since 1990, the Fed has raised interest rates within seven days of an election only once, on 2 November 2022 (24/7 Wall St. via Yahoo Finance) [single source].
+
+Economists are divided on whether October is in play. The Fed says it does not factor the electoral calendar into its decisions, and Reuters reports that markets still expect rates to be held (Reuters via Investing.com). [Your view here]
+
+Mixed marks for the banks
+
+Last week we flagged results from the major US banks as a guide to the health of households and businesses. JPMorgan’s profit rose to $15.3 billion, yet it missed analysts’ expectations for the first time in nearly three years (Fortune, 13 Oct; Fortune, 15 Oct). Bank of America also missed, ending a run of six consecutive beats. Goldman Sachs comfortably beat forecasts.
+
+On households, the message was reassuring. Executives said consumers are still spending and paying their bills, although JPMorgan chief executive Jamie Dimon listed “sticky inflation” among the risks.
+
+In September, we described third-quarter results as an important test of whether profits are growing strongly enough to support share prices. [Your view here]
+
+What are we looking at this week?
+UK inflation
+
+September’s UK inflation figures are due on Wednesday (GOV.UK). Inflation rose to 3.1% in August, with services inflation at 3.4% (Trading Economics).
+
+Economists polled by Reuters expect the Bank of England to raise interest rates to 4% in November. The economy grew 0.1% in August, against expectations of a 0.1% contraction (Reuters via Yahoo Finance) [single source for both].
+
+Tesla reports
+
+Tesla publishes third-quarter results on Wednesday evening, having delivered 486,532 vehicles in the quarter (Tesla). After a week in which AI-linked shares were sold heavily, investors will be listening to management’s comments on spending and autonomous driving.
+
+The calm before a crowded week
+
+This is the last full week before three major decisions arrive within two days: the Fed (CBS News) and the UK Budget on 28 October, and the European Central Bank on 29 October (Admiral Markets).
+
+Chancellor John Healey said this week that he and Prime Minister Andy Burnham are “aligned on maintaining fiscal discipline” (Reuters via Yahoo Finance). Independent economists estimate the government’s headroom against its fiscal rules at between about £8.5 billion and £16 billion, down from £23.6 billion in March (IFA Magazine).
+
+Metrics that matter
+
+(Six offered. Cut three.)
+
+7.57%
+The fall in South Korea’s Kospi index on Thursday, its seventh consecutive daily decline, as SK Hynix and Samsung Electronics slid on concerns about Chinese competition (Startup Fortune) [closing figure single source; Gulf News reports an intraday fall of 8%].
+
+1.3%
+The rise in US producer prices in September, more than double the 0.6% economists expected, highlighting price pressures building further up the supply chain (InvestmentNews) [single source].
+
+2.9 million
+The number of barrels of oil that passed through the Strait of Hormuz on 11 October, according to Kpler, down from 20.8 million three days earlier (Al Jazeera).
+
+72%
+The rise in Goldman Sachs’ equities trading revenue in the third quarter, highlighting how volatile stock markets have boosted Wall Street trading desks (Fortune).
+
+68.7%
+The year-on-year rise in TSMC’s third-quarter net income, highlighting the strength of AI-related chip demand even in a week when chip shares fell (TSMC).
+
+21.05°C
+The average sea surface temperature outside the polar regions in September, a record for the month according to the Copernicus Climate Change Service (Down To Earth). (Off-market slot.)
