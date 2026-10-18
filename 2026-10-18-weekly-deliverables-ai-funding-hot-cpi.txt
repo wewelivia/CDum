@@ -1,0 +1,65 @@
+Subject: Top of mind: AI’s funding bill, and a hot CPI that bonds shrugged off
+
+Team,
+
+Is AI running out of money?
+The AI trade has a new risk factor: the cost of paying for it. Chip bosses said this week that capital, not chips or power, may now be the real limit. The market went straight for the weakest balance sheets, where data-centre debt now trades at distressed levels and even Anthropic is reportedly paying up to borrow. The sell-off bundled two separate stories, though. Funding stress at the indebted end is one. A Chinese memory breakthrough that hammered Korea is another, and it has nothing to do with financing. Meanwhile every chip company that reported described demand as strong as ever. The politics may matter more than the capex maths: grid and permitting delays are now stopping projects (Microsoft just walked away from a UK data-centre deal over power timelines), and the Fed openly calls AI investment inflationary. So the boom is starting to push up its own cost of capital. Our view: this is a repricing of the weakest links in the AI chain rather than the end of the cycle. But positioning was crowded, and that can make the correction deeper than fundamentals justify. Meta on Wednesday is the next real test.
+
+Is inflation back?
+On the face of it, yes. Both September price reports surprised, and companies from truckers to airlines are openly passing fuel costs on, so second-round effects deserve to be treated as a live risk. Most of the jump is still energy, though, and the Bank of England said this week it sees little evidence of second-round effects so far. We still expect most of this to land as squeezed margins rather than a wage-price spiral. The bond market seems to agree: Treasuries had their best week since February, right through the hottest data in months. The politics matter here too. With the midterms on 3 November, Washington is waiving Russia sanctions to get diesel prices down, and Iran appears to be reading the same calendar. Our view: this is a price shock rather than inflation, and we expect the Fed to stay put this month. Middle East geopolitics remains very hard to trade, and we are comfortable keeping energy as our hedge.
+
+One to watch: Healey’s first Budget on 28 October. The gilt market has set the terms, and the banks look like the ones paying.
+
+Best, Ju
+
+Sources:
+
+Vital Talking Points, week ended 16 Oct
+Vital Weekend, 18 Oct
+StreetAccount US, EU and Asia Weekly Recaps, 16 Oct
+CNBC: Intel, Broadcom CEOs warn capital crunch
+CNN: Nasdaq sinks as investors question AI debt
+Telegraph: Microsoft axes UK data centre deal
+CNBC: September CPI
+Axios: Trump’s Russia sanctions waiver
+CNN: Iran gets a vote on prices before the midterms
+
+=== DELIVERABLE 2 ===
+
+PART A: THE WEEK IN ONE WORD: FUEL
+
+This week’s word is fuel. And it works twice.
+
+Start with the literal kind. Iran stepped up its attacks around Hormuz. On Friday a missile was fired at Saudi Arabia’s Red Sea export port. Brent ended the week near 110 dollars, its highest close since May, and US crude is back above 100.
+
+That fuel went straight into the inflation numbers. Petrol prices rose about 9% in a single month, which pushed US consumer prices to 3.7%. Producer prices had their biggest jump since early 2022.
+
+Normally that would send yields up and hit growth stocks. Only half of that happened. Growth stocks were hit hard. But the cause was the other kind of fuel: money. The chip bosses said out loud this week that the limit on AI is no longer chips or power. It’s capital. So the market went looking for the companies running on borrowed fuel. CoreWeave, a debt-funded data-centre landlord, lost a quarter of its value as its bonds moved into distress. Chip stocks fell eight days in a row, their longest losing run in nearly two decades.
+
+Where did the money go? Into Treasuries, which had their best week since February despite the hot data. Into the boring parts of the market: the average S&P stock beat the index by the most since 2020.
+
+So both kinds of fuel got more expensive. This week Meta and Tesla report, and they’ll tell us how much fuel AI still has in the tank.
+
+PART B: SPOTLIGHTS
+
+1. The hottest inflation week in months, and bonds rallied (partly overlaps Deliverable 1, item 2)
+Both US price reports beat expectations, yet Treasuries had their best week since February. So look at the stock-bond correlation instead. In Europe it turned positive this week for the first time since August, which means bonds are acting as a hedge again. Three things drove it. First, the inflation is concentrated in energy, so markets read it as a tax on growth. Second, the Fed has already hiked, so nobody doubts its resolve. Third, the AI scare sent money looking for safety. Bottom line: at 5% yields, bonds are starting to earn their place in a portfolio again.
+
+2. Europe’s 21% earnings growth is closer to 11%
+European third-quarter profits are expected to grow about 21%, which looks like a boom. Strip out energy and tech and it’s nearer 11%. Energy alone should supply more than half the growth. The rally itself was defensive: food and beverage led, while tech and miners lagged. So the variable to watch isn’t European earnings, it’s oil. The drivers are high crude prices, gas near four-year highs and winter storage at a record low. Bottom line: Europe’s earnings story is mostly an oil story. If energy cools, so does the growth, and the “diversifier” case is weaker than the headline suggests.
+
+3. Korea: the world’s best market turned into a two-stock bet
+South Korea’s Kospi was the best-performing major index in the first half. This week it lost almost 15% in dollar terms. The variable is concentration. Samsung and SK Hynix make up more than half the market, and they fell roughly 18% and 24% this week, so the Kospi is really a forecast of memory-chip prices. A Chinese memory breakthrough threatened those prices, and the end of large share buybacks removed a buyer. AI funding stress did the rest. Bottom line: a country allocation can be a single-factor bet in disguise. Check what an index owns before calling it diversification.
+
+My run history only shows the 7 September real-rates spotlight, so I couldn’t check these three against other recent weeks.
+
+=== DELIVERABLE 3 ===
+
+Key Topics (updated every week)
+
+The AI sell-off was about funding, not demand. The Nasdaq fell 4.5% (worst week since June), while the equal-weight S&P beat the cap-weighted index by ~225bp, the most since November 2020. Chip stocks lost 11.4% over eight straight sessions, CoreWeave’s bonds traded near 15% yields, and talk of Anthropic’s IPO valuation cooled to ~$1.5tn from ~$2tn.
+Inflation ran hot, yet Treasuries had their best week since February. CPI rose to 3.7% (core 2.6%, with core services ex-shelter the hottest since January). PPI jumped the most since March 2022. The 10-year still fell ~15bp to around 5.08%. Warsh gave no steer, so October hike odds collapsed, and a December hike is close to fully priced.
+Brent settled at its highest since 19 May (~$110) as Iran stepped up its Hormuz attacks. Ahead of the 3 November midterms, Trump waived mandatory Russia sanctions to bring diesel prices down.
+Europe rose ~2%, but defensively. Food and beverage led (+7.6%) while tech lagged, and energy should supply more than half of Q3 earnings growth. In the UK, Healey’s 28 October Budget reportedly lifts the bank surcharge from 3% toward 8%, after the 30-year gilt touched ~6.04% on 7 October (highest since 1998).
+Key events this week. Mon: China Q3 GDP. Tue: UK jobs; SpaceX and Netflix after the close. Wed: UK CPI; Meta, Tesla, IBM and Lam Research after the close. Thu: Blackstone, Barclays, Nestlé; Western Digital after the close. Fri: flash PMIs; American Express.
+Our message: The cost of capital is now the AI story. It hits the most indebted builders first, while the cash-rich hyperscalers can fund through it. We remain neutral duration but believe an entry point is nearing, now that bonds are hedging equities again. Meta on Wednesday is the test.
