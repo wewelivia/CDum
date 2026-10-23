@@ -1,0 +1,88 @@
+Earnings keep the beat
+
+Equities shrugged off higher yields in 2026 because profits grew faster than valuations fell. In 2027 the cushion is thinner. The question is less whether to own equities than what job each holding does.
+
+Profits played, multiples paused
+
+What a year it has been. A calm start gave way to an energy shock and rising inflation. The Fed raised rates for the first time in three years, and US ten-year yields climbed to their highest level since 2002. Equities took it in their stride. Global equities were up 13% by the end of September [update at print], and indices in the US and Europe set records along the way [check EM].
+
+How they did it matters for 2027. Valuations did not drive the gains. They fell. Over the past year the S&P 500’s forward price-to-earnings ratio dropped from 22.4 to 19.0, while expected earnings rose by around 38%. Profits did all the work.
+
+Not all profits were equal. Energy companies earned a windfall from oil above $100. Chipmakers rode the AI build-out, and the Philadelphia Semiconductor index roughly doubled in the first half before losing a quarter of its value from its June peak. A slice of reported earnings also came from paper gains on stakes in private AI companies, worth around 12% of S&P 500 earnings in the second quarter. So when markets wobbled in October, investors asked the obvious question. Had the music stopped, or was it a glitch in the tape?
+
+[Chart: 2026 returns by region and sector]
+
+The engine: earnings
+
+Consensus expects S&P 500 earnings to grow 16% in 2027, after almost 33% this year. We agree that growth will slow but stay healthy. The mix matters more than the headline, because the drivers of 2026 will not all repeat.
+
+AI investment is the one that should. Capital spending by the largest cloud providers is projected to exceed $1 trillion a year from 2027. That spending is revenue for the chipmakers and power suppliers that build the infrastructure, and as long as it grows, their earnings grow. Energy profits are different. They depend on an oil price we expect to ease. Paper gains are different again. They swell when private AI companies raise money at higher valuations and could subtract several points from 2027 growth if those valuations stall. Strip out both and the earnings engine is AI investment, almost on its own.
+
+That makes breadth the question for 2027. Earnings growth in 2026 was broad in direction, with ten of the eleven S&P 500 sectors growing profits in the first half. It was concentrated in size. In the second quarter the Magnificent Seven grew earnings by 112%, against 31% for the rest of the index. Consensus expects the rest of the market to close some of that gap next year [check]. We are less convinced that market leadership will follow. A genuine broadening, where AI lifts profits well beyond technology, is our upside scenario rather than our central case.
+
+The bigger change is in how the engine is funded. Until recently the largest technology companies paid for AI out of their own cash flow. Some now spend more than they generate and are turning to bond and equity markets to close the gap. Technology bonds already trade at wider spreads than the broader investment grade market, for the first time in at least two decades. If an off-key note comes in 2027, it may sound in the credit market before it shows up in earnings.
+
+[Chart: earnings revisions by region] [Table: consensus earnings growth, 2026 and 2027, single source]
+
+The first price: money
+
+Higher yields have already left a mark. The fall in US valuations this year was the bond market at work. The good news is that US equities are no longer expensive against their own history. A forward multiple of 19 is close to its ten-year average. The bad news is that they are expensive against bonds. The S&P 500’s earnings yield, around 5.3%, is roughly what a ten-year Treasury pays, and the gap between the two is the thinnest in about two decades.
+
+That puts the burden on earnings. Real yields are near 2.8%, the highest since 2008. Every further quarter-point rise would take roughly 4.5% off the index if earnings forecasts stood still. Equities can still beat bonds in 2027, but only if profits keep growing. With high-quality bonds paying 5% or more, that is the hurdle every equity position has to clear.
+
+Outside the US the starting point is lower. [Chart: the valuation ladder, forward P/E by region.] The US sits at the top at 19 times earnings. Emerging markets sit at the bottom at between 9 and 11 times, a record discount to the US, with the other developed markets in between. A cheaper starting point leaves more room for disappointment, though cheap markets usually have a reason.
+
+The second price: energy
+
+Energy decides who keeps their margins. With Brent above $110, energy producers have been the clear winners, and so has the UK, where oil majors carry real weight in the index. Consumer-facing businesses are paying the bill, and so are Europe’s energy-intensive manufacturers. Our central case assumes oil eases towards the high $80s as the conflict de-escalates [align with house oil assumption], which would narrow this year’s gap. A renewed spike would widen it. That is why we treat energy exposure as insurance rather than a growth call, and size it accordingly.
+
+Our tune: every position has a job
+
+Rather than a tour of regions, we start from the job each position does. A portfolio needs a rhythm section that holds the line and soloists who can add returns. It also needs shock absorbers for when the music changes.
+
+The rhythm section: US equities, tilted to AI adopters and quality. The US remains the core of global portfolios. It hosts most of the AI leaders, and its earnings delivery this year has been exceptional. Last year we argued for diversifying beyond US mega-caps, which worked well until the energy shock. With valuations closer to their history, we are now more constructive [align with grid]. Within technology the market has stopped paying for AI exposure and started paying for AI returns, so we favour companies that turn AI into revenue and margins, backed by strong balance sheets. Positioning is the main risk. Fund managers hold their largest overweight in technology since 2020, and long semiconductors is the most crowded trade.
+
+The soloists: where selection pays. Dispersion is high and likely to stay high, which favours active managers and hedge funds here.
+
+Emerging markets trade at a record discount to the US, around half the multiple, because earnings forecasts have risen faster than prices. We are constructive, but investors should know what they own. Three Asian chipmakers make up around 30% of the index and much of its earnings growth, so EM is as much an AI supply-chain position as a diversifier. India and China are expected to contribute more to earnings growth in 2027 [check]. The US-China truce, which runs to 10 January, is the near-term risk.
+
+Grid and power companies offer AI exposure without technology multiples [new call]. Demand for compute is running into the limits of power supply and grid connections, and the companies that build that capacity, many of them European industrials and utilities, are seeing it in their order books.
+
+Health care is a recovery story. Most large drugmakers have now signed pricing and investment agreements with the US administration, and sector earnings, which fell in the first half of this year, are expected to rebound strongly in 2027. The sector is no longer cheap and faces a large patent cliff later in the decade, so selection matters here too.
+
+The shock absorbers. Energy stocks have had a strong year and still pay above-average dividends. The UK, with its oil majors and banks, offers a wide valuation discount to global peers and one of the higher dividend yields among developed markets. Both would gain if energy prices spike again. Both would lag if the conflict ends and oil falls. We hold them for the first reason and size them with the second in mind. On income, a word of caution: with ten-year gilts yielding around 5.4%, a UK dividend yield near 3.3% is not enough on its own. The case rests on dividends growing.
+
+The one scenario these do not cover is a disorderly sell-off in government bonds, which would hit equities and bonds together. For that, option protection does the work, and it is cheapest to put in place while volatility is subdued.
+
+Neutral: Europe ex-UK and Japan. Europe’s valuations have fallen to around fair value, and earnings have beaten expectations this year. Energy costs and politics cap our enthusiasm. France elects a president in April, and Germany’s coalition is fragile ahead of a sensitive regional vote in December. Within Europe, we prefer the grid and power names above. Japan’s governance reforms and rising shareholder returns remain a strong structural story, but valuations sit above their long-run average and the yen adds volatility. Higher domestic interest rates favour the banks.
+
+Less preferred: consumer discretionary and rate-sensitive small caps [new call]. Household budgets are squeezed by energy bills and higher borrowing costs, and consumer discretionary has lagged all year. Smaller companies are more exposed to higher rates and have less pricing power. This is where we would fund the positions above.
+
+Position    Stance    Job    Main driver    Works best in    Would change our mind
+US equities: AI adopters, quality    Constructive [align with grid]    Rhythm section    AI earnings    Steady Groove    AI capex guidance cut
+Technology, selective    Constructive    Rhythm section    AI returns    Steady Groove    Cloud revenue lags capex
+Emerging markets    Constructive    Soloist    AI supply chain, valuation    Steady Groove, Great Crescendo    Chip earnings revisions turn down
+Grid and power enablers    Positive [new]    Soloist    Power demand from AI    Steady Groove    Capex slowdown
+Health care    Constructive    Soloist, defensive    Earnings recovery    Growth or AI shock    2027 guidance disappoints
+Energy    Constructive    Shock absorber    Oil    Stagflationary shock    Durable ceasefire
+UK    Constructive    Shock absorber, income    Oil, dividends    Stagflationary shock    Dividend cuts, oil below $80
+Europe ex-UK    Neutral        Energy, politics    Great Crescendo    Energy prices fall, French risk fades
+Japan    Neutral        Governance, yen    Great Crescendo    Better entry point
+Consumer discretionary, small caps    Less preferred [new]    Funding    Rates, energy squeeze    Great Crescendo    Rate cuts priced
+Option overlays    Add when volatility is low    Shock absorber    Volatility    Sovereign-led sell-off    
+If the music changes
+
+Our central case is the Steady Groove described in “All that JAZZ”. Each scenario favours a different part of the band.
+
+Scenario    Probability    Equity leadership    Our response
+Steady Groove    50%    Narrow: AI adopters, quality    Hold the core, harvest dispersion
+Great Crescendo    10%    Broadens: cyclicals, equal-weight, Europe and Japan    Add to neutrals, trim shock absorbers
+Broken Rhythm: stagflationary shock    25%    Energy, UK, value    Lean on shock absorbers, trim long-duration growth
+Broken Rhythm: growth or AI shock    15%    Health care, quality, defensives    Add protection, lean on government bonds
+Sovereign-led sell-off    Tail    Everything falls together    Options and cash
+
+Four signals matter most for equities. The first is the breadth of earnings revisions. The second is the gap between the earnings yield and the real bond yield. The third is the spread on AI-related bonds against the broader market. The fourth is whether cloud revenue keeps pace with capital spending.
+
+Coda
+
+Equities can keep playing in 2027, but fewer instruments are carrying the tune and bonds are competing for the audience. Hold the rhythm section. Pay for soloists only where selection adds value. Keep the shock absorbers sized for a year when the tune could change quickly.
