@@ -1,0 +1,17 @@
+efore running any of my code, paste these into the same browser the same way. Together they test every piece the tab depends on.
+
+1. Estimates API. This is a separate entitlement from the Formula API, and it’s where the revision counts come from.
+
+https://api.factset.com/content/factset-estimates/v2/rolling-consensus?ids=IBM-US&metrics=EPS&relativeFiscalStart=1&relativeFiscalEnd=2&periodicity=ANN
+
+You want two rows back, one per fiscal year, each carrying estimateCount, up and down.
+
+2. Index constituents and sectors (Formula API):
+
+https://api.factset.com/formula-api/v1/time-series?universe=FG_CONSTITUENTS(984000,0,CLOSE)&formulas=FG_GICS_SECTOR&flatten=Y
+
+This should list the MSCI USA constituents with sector names. If it comes back empty, the index code is wrong for your account, and I’ll swap it.
+
+3. Estimates data through the Formula API:
+
+https://api.factset.com/formula-api/v1/time-series?ids=IBM-US&formulas=FE_ESTIMATE(EPS,MEAN,ANN_ROLL,+1,NOW,'')&flatten=Y
