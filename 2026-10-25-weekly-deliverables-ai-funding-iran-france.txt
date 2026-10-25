@@ -1,0 +1,71 @@
+DELIVERABLE 1: TOP OF MIND FOR CLIENTS
+
+Subject: Top of mind for clients: AI’s funding bill, Iran round three, France
+
+Team,
+
+Is AI running out of money?
+A new risk now sits at the centre of the AI trade. Demand still looks fine, as earnings keep showing. The open question is who pays for the buildout. A growing share of capex is financed by debt and equity rather than cash flow, so a less generous capital market is a real constraint. This week Meta’s new non-voting share class, a smaller OpenAI round and record prices for insuring hyperscaler debt all made the same point. The stress is concentrated where you would expect it, in the neoclouds and the frontier labs, which bring model IP but not cash flow, while the large platforms can still fund themselves, just at a higher price. In other words, this looks more like the cost of capital being repriced for the weakest links than the end of the buildout, and it is more likely to slow 2027 capex growth than reverse it. Politics is moving too: the top Democrat on the Senate Finance Committee proposed an excise tax on data centres to fund support for workers displaced by AI, which is a preview of what a Democratic House might push after 3 November. Our view: the Anthropic IPO is the near-term test, and with hedge funds having cut tech at the fastest pace in a decade, a successful deal could spark a sharp, positioning-driven rebound even if money for AI stays more expensive.
+
+Round three?
+Oil is back above $100, and the market is pricing something new: renewed US-Israeli strikes on Iran after the midterms, with energy infrastructure on the target list. That matters because oil and gas facilities have been largely off limits for eight months, and Tehran has said it would answer across the Gulf. Europe is the most exposed, entering winter with gas storage at a record low for the time of year. Still, the President has vetoed similar plans several times this year, Gulf export volumes are back above pre-war levels, and a short campaign that misses its strategic aims carries an obvious political cost. Our view: a resolution remains the most likely outcome, but this is close to untradeable, so we keep energy as the hedge rather than fade the move. An oil spike is a price shock, and it only becomes inflation if it starts to feed itself. That is why the price increases transport companies and airlines are passing on this earnings season matter more than the Brent headline.
+
+Is France the new Italy?
+French 10-year yields went through 5% this week for the first time since 2002, and the spread over Bunds is the widest since the euro crisis, so asking about contagion is fair. The trigger was social unrest, but the problem is political: a parliament that cannot pass a deficit-reducing budget, a presidential election next spring, and at least one candidate on the far left talking about erasing the debt. Moody’s surprised on Friday by holding its rating. That buys time but changes nothing structural. We do not see a rerun of 2011. The selling has been France-specific, Bunds and gilts benefited from haven flows, and the ECB has a tool for disorderly spreads, although France’s fiscal record would make using it contentious. Our view: the French premium is here to stay into the election, and the next test is S&P’s review on 27 November, but this is still a country story rather than a systemic one.
+
+One to watch: Wednesday’s UK Budget. A low-key “do no harm” package funded by a bank surcharge is the consensus, but with consumer confidence just suffering its sharpest non-pandemic fall since the Brexit vote, the gilt reaction is the thing to watch.
+
+Best, Ju
+
+Sources:
+
+Vital Weekend, 25 Oct 2026
+Vital Talking Points, week ended 23 Oct 2026
+Investing.com: Meta non-voting shares
+CNBC: OpenAI $1.25tn round
+Dealroom/FT: record AI CDS
+Investing.com: Goldman hedge fund tech selling
+Politico: Wyden data centre tax
+NYT: post-midterm Iran strike plans
+Anadolu: European gas and storage
+Dow Jones/Morningstar: OAT yields
+Reuters: Moody’s holds France
+JPMorgan AM: France update
+NIQ/GfK: UK consumer confidence
+Evening Standard: Budget preview
+
+DELIVERABLE 2: MONDAY “WEEK THAT WAS”
+
+PART A: THE WEEK IN ONE WORD: BILL
+
+The word this week is “bill”, because every story came back to one question: who pays?
+
+Start with AI. Earnings were good again. Western Digital beat and raised, and Meta’s advertising business is humming. But Meta told us the buildout needs capital “in the hundreds of billions” and created a new class of shares to raise it. OpenAI had to trim its valuation to close its round. The cost of insuring big tech’s debt hit records. The market stopped asking whether AI works and started asking who picks up the bill.
+
+Some of that bill landed in the bond market, and in a good way. Treasuries rallied hard. Thursday saw the biggest one-day fall in the 10-year yield since March 2023, because fewer AI bonds and slower growth beat hot inflation data.
+
+Then came the energy bill. Brent hit a six-month high as Washington and Israel draw up plans for strikes after the midterms, and European gas is at its highest since 2022 with storage at a record seasonal low. Households pay that bill, and they know it: UK consumer confidence just had its worst month outside the pandemic since the Brexit vote.
+
+Finally there is the bill that won’t pass. France cannot get a budget through parliament, and its 10-year yield went through 5% for the first time since 2002.
+
+This week the bills come due: the Fed, the ECB, the UK Budget and, possibly, Anthropic.
+
+PART B: SPOTLIGHTS
+
+1. Oil up, yields down
+(Overlaps with the AI item in Deliverable 1.) Brent rose around 4% on the week and US selling prices rose at the fastest pace since 2022, yet the 10-year yield fell. If inflation were driving bonds, that could not happen. So look at what the bond market is actually trading, which is supply and safety. Four things drove it: expectations of fewer hyperscaler bonds as AI capex is questioned (the same force that pushed yields up in September, now running in reverse), haven flows out of French paper and out of tech, softer growth signals led by US housing, and a December Fed hike already in the price. Bottom line: if the Anthropic deal goes well and AI issuance reopens, yields can back up even with oil flat.
+
+2. The index fell, the average stock rose
+The S&P 500 lost 0.5% on the week, yet equal weight beat it by roughly 160bp (single source), and Thursday was its best relative day since 2024. “Broadening” sounds healthy, but the variable to watch is the AI basket’s contribution to the index. It drove about three-quarters of the first-half gain and has taken away about 1.7 points since (single source, unverified). Two forces are at work: hedge funds liquidating AI longs, and money rotating into defensives rather than cyclicals. Bottom line: the index is a worse guide to the typical client portfolio than usual, and it cannot rally sustainably without AI.
+
+3. Europe’s earnings boom is an oil story
+Stoxx 600 earnings are tracking around +22% for the third quarter, the second-best in four years. Strip out energy and growth is about 8%, with revenue under 6%. That ex-energy number is the variable that matters. The headline is driven by energy profits up over 130% as trading desks cash in on volatility, plus a strong tech contribution, while consumer, autos and luxury are lagging. Bottom line: investors already strip out the windfall, which is why beats are going unrewarded, and Europe needs a better ex-energy number, not a better headline, to re-rate.
+
+DELIVERABLE 3: KEY TOPICS (UPDATED EVERY WEEK)
+
+The AI trade buckled on funding, not results. Meta lost ~9% after flagging capital needs in the “hundreds of billions”, and OpenAI trimmed its round to a ~$1.25tn valuation. Thursday was the Nasdaq’s worst day since June, yet equal weight had its best relative day since 2024, so this was rotation rather than capitulation.
+Treasuries got their hedging role back. The 10-year ended around 5.00%, roughly 10bp lower on the week, after Thursday’s biggest one-day drop since March 2023. That came despite US flash PMI selling prices rising at the fastest pace since August 2022.
+Energy risk re-escalated on post-midterm strike plans. Brent settled near $117, a six-month high. Dutch gas hit ~€93/MWh, the highest since December 2022, with EU storage at ~75% (a record seasonal low).
+France became Europe’s pressure point. The 10-year OAT broke 5% for the first time since 2002, and the Bund spread hit its widest since 2011. Moody’s held Aa3 (negative outlook) on Friday, a reprieve bonds had not priced. The Stoxx 600 lost 1.4%.
+Key events this week. Tue: Israel election, Visa. Wed: UK Budget, FOMC (hold expected), Alphabet and Microsoft. Thu: ECB (hold at 2.50%), US Q3 GDP and September PCE, Amazon, then the BoJ overnight. Fri: euro-area GDP and flash CPI, ExxonMobil and Chevron. Anthropic’s public S-1 is reportedly due early in the week.
+Our message: The one thing that matters is whether capital markets reopen for AI, and Anthropic plus the hyperscalers’ guidance will tell us. Positioning has been cleaned out fast enough for a sharp rebound, so we would not chase the defensive rotation. We remain neutral duration, but Treasuries hedging AI again argues for holding bonds rather than trimming them. Energy stays our geopolitical hedge.
