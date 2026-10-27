@@ -1,0 +1,43 @@
+After a volatile autumn, we put our cash buffer to work and sharpen our regional equity preferences. Where next for asset classes in 2027?
+
+Page header: Multi-asset portfolio allocation
+Author name: Julien Lafargue, CFA, Chief Market Strategist
+Meta descriptor: After a volatile autumn, we put our cash buffer to work and sharpen our regional equity preferences. Where next for asset classes in 2027?
+
+[Grid]
+- denotes a cautious view, = denotes a neutral view, + denotes a positive view
+* Includes hedge funds, private credit, private equity, commodities and real assets.
+
+High-level allocation
+
+We remain neutral at the asset class level, but we have made changes within it.
+We would still rather add risk on market pullbacks than cut exposure. October gave us that opportunity, so we bring cash back to neutral after holding slightly more than usual for tactical reasons.
+Investors are now paid to lock in yields for longer: ten-year Treasuries yield close to 5%, against around 4.2% for three-month bills.
+
+Fixed income
+
+The jump in yields has made bonds a more attractive source of income, but fiscal worries and sticky inflation keep us broadly neutral. Within fixed income, we still prefer investment grade to high yield bonds.
+Spreads look asymmetric to us. High yield spreads have widened to around 340bp, the most since March, but remain well below their long-term average and could widen sharply if the global economy weakens faster than expected.
+We continue to find emerging market debt attractive. Yields are elevated and in many cases fundamentals match or beat those of developed market peers, but selectivity matters more than ever after Brazil’s election-day sell-off.
+While yields jumped in the second half of 2026, we keep duration neutral in the eurozone and UK (4-6 years) and take a slightly cautious view in the US (3-5 years) as we expect more volatility. Our bias would still be to add to duration, once a central bank backstop or a clear growth scare emerges.
+
+Equities
+
+Despite concerns over AI and the jump in yields, equities remain the main driver of portfolio growth, with earnings rather than valuations doing the heavy lifting.
+Performance has diverged sharply across regions and sectors this year, so we stay neutral at the index level and focus on those opportunities.
+We turn positive on US equities, consolidating our AI exposure where earnings delivery and quality are strongest. Valuations have moderated as earnings outpaced prices, with the forward P/E down from over 22 a year ago to around 19. Positioning remains crowded, so the move is modest.
+We turn cautious on the eurozone, where France’s fiscal and political strains persist despite Moody’s decision to hold its rating, and energy costs weigh on margins. We stay neutral on the UK: valuations and dividends offer support, but earnings lean heavily on energy.
+We move Japan up to neutral after a stronger year than we expected, as governance reform and record shareholder returns support earnings. We bring emerging markets back to neutral. Valuations remain attractive, but three Asian chipmakers make up around 30% of the index, which overlaps with our US position.
+Among sectors, we reopen our positive view on global healthcare, which we neutralised after strong outperformance, as earnings look set to recover in 2027. We keep our positive view on energy as a hedge against geopolitical risk. We remain cautious on consumer discretionary.
+
+Alternatives
+
+Hedge funds have broadly done their job as diversifiers this year, with macro strategies leading, while strains in parts of private credit are a reminder that liquidity can disappear quickly. We keep a positive bias towards hedge funds and private markets, while staying highly selective.
+Commodities have been among the best-performing assets this year, lifted by the energy shock and weather disruptions. We remain broadly neutral, as we see them as a source of trading opportunities rather than a major driver of long-term returns.
+Gold has slid more than a quarter from its January record as long-term yields rose. Its diversification value lies in protecting against a loss of confidence in government finances, so we see benefits in maintaining exposure to the precious metal.
+
+Portfolio strategy
+
+October’s sharp swings in AI-related stocks are a reminder of why we believe portfolios should be deliberately neutral but built to limit downside risk while capturing as much upside as possible. That means a resilient core, clear ways to add risk during drawdowns and explicit protection that can be used opportunistically in dislocated markets.
+A core-satellite approach still makes sense to us. Passive exposure helps contain index concentration risk, while active strategies can take advantage of the high dispersion we see within asset classes, as this year’s wide gap between AI winners and laggards shows.
+Option overlays, used directly or through structured solutions, can further improve the risk-reward profile in a fast-moving, narrative-driven market. They matter more because government bonds may not protect portfolios in a sovereign-led sell-off.
