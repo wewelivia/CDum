@@ -1,0 +1,155 @@
+Facing the music: the debt fairy tale brings repricing opportunities
+
+The rates market experienced a significant repricing in 2026. We now see a more balanced backdrop and remain prepared to extend duration when opportunities arise. Credit spreads have been remarkably resilient but have recently started to widen. We believe the tightest spread levels of this cycle were reached in 2026. Investors should be prepared for greater credit spread volatility ahead, which could result in buying opportunities.
+
+The structural repricing
+
+Entering 2026, rates markets and most economists anticipated a gradual easing cycle from major central banks, including the Fed, BoE and ECB. Yet, as highlighted in our November 2025 Outlook 2026, The Interpretation Game, the path was never pre-determined. At the time, we argued that while carry opportunities remained attractive, “the current cycle is at a critical juncture, with economic data still distorted by post-pandemic dynamics and geopolitical developments. Slow progress on disinflation, tariffs and a lack of fiscal consolidation add complexity.”
+
+The events of 2026 demonstrated that the 2022 tightening cycle was not merely a temporary response to post-pandemic inflation. Instead, bond markets have entered a structural repricing driven by a shifting geopolitical landscape, elevated public and corporate debt issuance, and inflation remaining persistently above central bank targets.
+
+The great U-turn
+
+The outbreak of the US-Iran conflict in February proved to be a pivotal moment. The Fed, under newly appointed Chair Kevin Warsh, had initially been expected to hold rates steady or lower them. However, at the Jackson Hole symposium in August, Warsh signalled a decisive shift: “We must be confident that underlying inflation is moving to our objective, clearly and at sufficient speed. Otherwise, we have work to do.” The Fed raised rates the following month, for the first time in three years.
+
+The ECB was forced to react quickly, raising rates in June and September, as its policy rate was no longer restrictive and imported energy inflation threatened the euro area outlook.
+
+Rates: not as inflation agnostic as it seems
+
+Nominal yields surged in 2026, largely driven by higher real yields, while market-implied inflation expectations, as measured by breakeven rates, remained relatively stable. At first glance, this suggested the sell-off was driven by debt supply concerns rather than inflation.
+
+A short(-end) story: 2026 rate move
+
+However, the move was rooted in the short end of the curve and reflected a change in central banks’ reaction functions. Policymakers appear to have learned from recent experience: if inflation re-emerges or disinflation stalls, waiting too long to respond carries significant costs.
+
+The repricing of front-end rates reflects confidence that central banks will react more quickly to inflationary pressures. In the case of the BoE, policy has become increasingly pre-emptive, with policymakers determined not to wait for second-round effects to materialise.
+
+This shift in expectations pushed real yields higher while containing breakeven inflation rates. Ultimately, the move at the front end was about inflation and central banks. The long end is a different story, where supply and fiscal credibility increasingly set the price.
+
+A more balanced score
+
+This assessment is important as investors evaluate whether current yields represent fair value heading into 2027. Current market pricing implies several additional rate hikes from the Fed, ECB and BoE. In our view, the probability that central banks will need to tighten materially beyond current expectations appears low.
+
+Economic growth in both Europe and the UK remains fragile although growth prospects seemed to have improved as of late. Ultimately though, households and businesses face higher energy costs, higher taxes in some jurisdictions and increased borrowing costs, all of which should act as a constraint on growth and front-end yields.
+
+Moreover, absent a further significant rise in energy prices, the contribution from energy inflation should fade due to favourable base effects, although October’s renewed jump in oil prices shows this cannot be taken for granted. Central banks will nevertheless closely monitor two factors: the pass-through of energy costs into broader inflation, particularly food prices, and evidence of second-round effects through wage growth.
+
+Taken together, this leaves the rates outlook much more balanced than it was earlier in the year. With the yield curve now positively sloped, investors are also paid to lock in yields for longer rather than wait in cash.
+
+Which bond market reacts next to the debt fairy tale?
+
+Rising government debt issuance is not a new phenomenon. Over the past six years, borrowing needs have repeatedly generated bond market volatility. French OATs, UK gilts, US Treasuries, Japanese government bonds and even German Bunds have all experienced periods of significant selling pressure.
+
+In 2027, the candidates are not hard to find. France heads into a presidential election in April with its spread over Germany near its widest since the euro crisis, and the US faces another debt-ceiling deadline. In Japan, the long end remains sensitive to the government’s spending plans and to domestic investors bringing money home.
+
+No golden goose for governments
+
+This trend is unlikely to change. Governments are unlikely to grow their way out of current debt burdens despite optimism from some policymakers, such as US Treasury Secretary Scott Bessent. In Europe and the UK, the response has increasingly involved higher taxes and elements of fiscal restraint, measures that have historically come at a cost through weaker demand, lower productivity growth and rising political discontent.
+
+Bond markets will continue to act as a safety valve. However, that does not necessarily imply a persistent surge in yields. There are limits to the level of rates that economies can absorb.
+
+As discussed in recent editions of our Market Perspective (August and September), investors are increasingly demanding a higher premium for holding long-dated bonds. In the US, term premiums have risen over the past two years but, on some measures, remain below long-term averages, suggesting potential for further steepening driven by long-end yields. Political developments across the US, Italy, France and the UK could provide additional catalysts.
+
+Fed task forces aim to reduce the central bank’s footprint
+
+Early in 2027, Chair Kevin Warsh is expected to publish the findings of his task forces examining the central bank’s future operating framework. While change appears likely, the eventual implications remain uncertain.
+
+Kevin Warsh has assembled a high-profile group of economists and practitioners to review key areas including communication, the balance sheet, data sources, productivity and the inflation framework.
+
+The broad objective is to create a leaner central bank with a smaller footprint in financial markets. One possibility is the end of formal forward guidance and even the discontinuation of the Fed’s dot plot.
+
+Less storytelling
+
+While forward guidance proved valuable after the Global Financial Crisis, it arguably contributed to policy misjudgements during the post pandemic period. A framework more similar to the BoE’s scenario-based approach is one possible outcome.
+
+The inflation framework review is likely to focus on the drivers of inflation and the role of money creation. Warsh has previously argued that monetary expansion plays a more significant role in inflation than currently acknowledged and should receive greater attention.
+
+The 2% inflation target: tilting at windmills
+
+Some have suggested the Fed could move away from a strict 2% inflation target towards a more flexible framework, particularly given that this target has not been achieved for over 5.5 years. Warsh, however, has described the target as “firm” and “fixed”. A key area of debate concerns the impact of AI-related investment on productivity growth and whether stronger productivity could alleviate inflation pressures over time.
+
+We think the outcome is less clear. Productivity improvements are likely to materialise gradually and not in the near term. Moreover, stronger productivity growth is traditionally consistent with a higher neutral interest rate. Finally, the current AI investment cycle seems inflationary rather than disinflationary.
+
+Darling, I have shrunk the balance sheet!
+
+Warsh has already signalled his preference for a much leaner Fed balance sheet and a reduced role in bond markets. However, this process is unlikely to be rapid.
+
+As he recently noted, “it took us about 18 years to find our way into this big balance sheet; it will take more than a few months to find our way out.”
+
+History highlights the limits of balance sheet reduction. In 2019, declining bank reserves created significant stress in funding markets, forcing the Fed to reverse course. Any future reduction must carefully balance movements on both the asset and liability sides of the balance sheet.
+
+The Fed could reduce its holdings further, but the ultimate scope will depend heavily on market conditions and timing. Greater coordination with the Treasury and increased engagement in T-bills on both sides could support the process by reducing pressure on longer-dated bonds. However, it would also make government financing costs more sensitive to short-term rates: a balancing act.
+
+Overall, bond investors will increasingly have to play without a conductor, relying less on central bank guidance and bond purchases. A smaller Fed balance sheet also leaves more duration for private investors to absorb, which should keep term premiums elevated. As with any transition, periods of uncertainty are likely.
+
+Is AI debt supply crowding out the government?
+
+The answer is both yes and no.
+
+Traditionally, crowding out refers to governments absorbing available savings, making it more difficult for the private sector to finance investment. Today, a reverse dynamic is increasingly being discussed.
+
+We have previously highlighted the surge in debt issuance from hyperscalers, driven by record capital expenditure plans that are likely to expand significantly over the coming years. While this additional supply contributes modestly to upward pressure on yields, the more important channel operates through growth and inflation.
+
+Particularly in the US, and increasingly in the UK, AI-related investment has improved growth prospects while simultaneously adding to inflationary pressures as supply struggles to keep pace with expected demand.
+
+The credit market is already drawing distinctions: technology bonds now trade at wider spreads than the broader investment grade market, which argues for selectivity among AI-related issuers.
+
+Who will be last when the music stops?
+
+Higher rates, whether driven by growth, inflation or debt supply, create challenges for corporate borrowers as well as sovereign issuers.
+
+Many high-yield and leveraged loan issuers refinanced at exceptionally low rates during the post-pandemic period. Much of this debt was issued with five-year maturities and is now approaching refinancing at materially higher yields. Strains are also visible in private credit, where some funds have faced record redemption requests this year.
+
+Even sectors benefiting from strong secular tailwinds, such as data centres, may face challenges as higher financing costs pressure lease economics. We do not expect refinancing pressures to trigger a broad credit crisis. Historically, stronger growth often fuels optimistic assumptions and rising input costs, both of which eventually challenge highly leveraged business models.
+
+The sharp widening in CCC-rated spreads provides a useful example. While broader high-yield markets were initially insulated, recent spread widening suggests that the tightest levels were likely reached in 2026 and that spreads may move wider in 2027.
+
+2027 likely to bring repricing opportunities
+
+The rates market now appears more balanced, although some scope remains for higher yields driven by fiscal concerns rather than inflation.
+
+We keep duration neutral in the eurozone and UK (4-6 years) and remain neutral to slightly underweight duration in the US (3-5 years), but would be prepared to extend duration under two scenarios. First, a material rise in term premiums driven by a fiscal shock that pushes long-end yields significantly higher, once the sell-off stabilises, for example through a central bank backstop or a recovery in auction demand. Second, a faster-than-expected moderation in inflation or economic growth.
+
+While the second scenario may result in lower yields than currently available, it would also likely reduce subsequent upside risk to yields and create a more attractive risk-return proposition for bond investors.
+
+High-quality government bonds should also cushion portfolios in a growth scare, including one triggered by a reassessment of AI. As we discuss in “All that JAZZ”, they are less reliable in a sovereign-led sell-off, when bonds and equities can fall together.
+
+Credit market spread widening likely
+
+Emerging market debt remains one of our preferred areas. Yields are elevated and in many cases fundamentals match or beat those of developed market peers, but selectivity matters.
+
+Within the corporate credit market, we remain underweight high yield bonds but would be prepared to increase exposure should spreads widen further to long-term average levels. 2027 could provide the backdrop for higher spreads.
+
+Until then, with the rates market balanced but tail risks still present, we think it prudent to take moderate risk, combining neutral duration and investment grade bonds for carry, before turning up the volume on higher yielding bonds.
+
+Changes, before and after
+#    Section    Before    After    Why
+1    Title    The debt fairy tale brings repricing opportunities    Facing the music: the debt fairy tale brings repricing opportunities    Fits the music scheme
+2    The great U-turn    stating that “the Fed has work to do.”    “We must be confident that underlying inflation is moving to our objective, clearly and at sufficient speed. Otherwise, we have work to do.” The Fed raised rates the following month, for the first time in three years.    The exact quote is conditional, and the September hike was missing
+3    The great U-turn    The ECB was forced to react quickly as its policy rate    The ECB was forced to react quickly, raising rates in June and September, as its policy rate    Says what the ECB actually did
+4    Layout    “Rates: not as inflation agnostic as it seems” set as body text    Set as a subhead    Formatting
+5    A short(-end) story    Ultimately, despite appearances, the move was still about inflation.    Ultimately, the move at the front end was about inflation and central banks. The long end is a different story, where supply and fiscal credibility increasingly set the price.    Gives the piece one thesis, sets up the fiscal sections and matches JAZZ
+6    Heading    A more balanced situation    A more balanced score    Music reference
+7    A more balanced score    should fade due to favourable base effects.    should fade due to favourable base effects, although October’s renewed jump in oil prices shows this cannot be taken for granted.    The “no further rise in energy prices” condition has already been tested
+8    A more balanced score    (new sentence)    With the yield curve now positively sloped, investors are also paid to lock in yields for longer rather than wait in cash.    Matches the cash move to neutral on the allocation page
+9    Heading    to the fiscal fairy tale?    to the debt fairy tale?    Consistent with the title
+10    Which bond market reacts next    (new paragraph)    In 2027, the candidates are not hard to find. France heads into a presidential election in April... In Japan, the long end remains sensitive...    Answers the question the heading asks
+11    No golden goose    like Scott Bessent for example    such as US Treasury Secretary Scott Bessent    Removes the redundancy
+12    No golden goose    act as a ventil    act as a safety valve    Wrong word
+13    No golden goose    but remain below long-term averages    but, on some measures, remain below long-term averages    The answer depends on the term-premium model used
+14    No golden goose    the US , Italy    the US, Italy    Typo
+15    Fed task forces    newly appointed Chair Kevin Warsh    Chair Kevin Warsh    “Newly appointed” appeared twice
+16    Less storytelling    may be a possible outcome    is one possible outcome    Removes the redundancy
+17    Heading    fighting windmills    tilting at windmills    Correct idiom
+18    2% target    There is also potential for the Fed to move away    Some have suggested the Fed could move away... Warsh, however, has described the target as “firm” and “fixed”.    Balances the speculation with Warsh’s own words
+19    2% target    cycle seems    cycle seems    Double space
+20    Balance sheet    The Fed could likely reduce holdings by a further USD 1 trillion or more, but    The Fed could reduce its holdings further, but    The figure has no source
+21    Balance sheet    bond investors will increasingly need to stand on their own feet    bond investors will increasingly have to play without a conductor... A smaller Fed balance sheet also leaves more duration for private investors to absorb, which should keep term premiums elevated.    Music reference, plus the link to what it means for investors
+22    AI crowding out    (new sentence)    The credit market is already drawing distinctions: technology bonds now trade at wider spreads than the broader investment grade market...    Adds the credit angle, matching JAZZ and the allocation page
+23    When the music stops    (new sentence)    Strains are also visible in private credit, where some funds have faced record redemption requests this year.    Matches the allocation page
+24    2027 opportunities    We remain neutral to slightly underweight duration in the US, but    We keep duration neutral in the eurozone and UK (4-6 years) and remain neutral to slightly underweight duration in the US (3-5 years), but    Adds the regional duration from the grid
+25    2027 opportunities    pushes long-end yields significantly higher.    pushes long-end yields significantly higher, once the sell-off stabilises, for example through a central bank backstop or a recovery in auction demand.    Lines up with JAZZ, the equity B(ear) side and the allocation page
+26    2027 opportunities    (new paragraph)    High-quality government bonds should also cushion portfolios in a growth scare... As we discuss in “All that JAZZ”, they are less reliable in a sovereign-led sell-off...    Covers bonds’ role as a hedge and cross-references JAZZ
+27    Credit    (new paragraph)    Emerging market debt remains one of our preferred areas...    EM debt is positive on the grid
+28    Credit    long term average levels    long-term average levels    Hyphen
+29    Credit    Until then in an environment where the rate market seems balanced but tail risk remains it seems most prudent... before increasing exposure to higher yielding bonds.    Until then, with the rates market balanced but tail risks still present, we think it prudent to take moderate risk, combining neutral duration and investment grade bonds for carry, before turning up the volume on higher yielding bonds.    Fixes the run-on and double “seems”, and adds a music reference
