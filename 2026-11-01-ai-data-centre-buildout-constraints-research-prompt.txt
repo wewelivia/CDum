@@ -1,0 +1,37 @@
+Role: Act as a sceptical infrastructure and semiconductor analyst. Try to falsify the hypothesis below rather than confirm it, and show your research plan before you write.
+
+Hypothesis: Physical and financial constraints will slow the AI data-centre build-out, so capacity energised in 2026 and 2027 will fall short of what consensus estimates and company guidance imply.
+
+1. Set the baseline first
+- Collect consensus and broker forecasts for 2026 and 2027 capex at Microsoft, Amazon, Alphabet, Meta and Oracle, and for data-centre capacity additions in GW (US and global). Give the range across brokers and the date of each estimate.
+- Convert dollars to megawatts where sources give cost-per-MW assumptions. Test delivery in MW energised, not dollars spent. Rising capex with flat MW delivered is evidence of a constraint, not of a faster build.
+
+2. Test each constraint: latest evidence, trend over the last four quarters, tightening or easing
+- Power and grid: utility large-load pipelines (requests vs signed agreements vs energised load), interconnection timelines, PJM and ERCOT, use of on-site generation.
+- Equipment: lead times and backlogs for gas turbines, transformers, switchgear and cooling (GE Vernova, Siemens Energy, Mitsubishi Heavy, Hitachi Energy, Eaton, Schneider Electric, Vertiv).
+- Chips and memory: advanced packaging and HBM capacity (TSMC, SK Hynix, Samsung, Micron).
+- Labour and construction: electricians, EPC capacity, cost per MW.
+- Permitting and politics: local moratoria, zoning rejections, large-load tariffs, state legislation.
+- Financing: hyperscaler free cash flow, debt and lease funding, partner guarantees, neocloud and developer leverage, private credit appetite.
+
+3. Read the disclosures for slippage
+- Leases signed but not yet commenced at each hyperscaler and Oracle: amount, commencement window and conditions, quarter by quarter since Q4 2024. Flag any window that lengthens.
+- Construction in progress versus assets placed in service, last eight quarters.
+- Capex guidance changes and the reasons given, especially references to delayed third-party capacity.
+- Data-centre REITs and developers: moved delivery dates, pre-leasing, paused or cancelled sites.
+- Suppliers: revenue pushed out because customer sites are not ready.
+
+4. Build the strongest case against
+Evidence that constraints are being solved faster than expected: on-site gas and fuel cells, nuclear agreements, faster permitting, shortening lead times, early deliveries, raised capex guidance.
+
+5. Separate slower from smaller
+Distinguish a supply constraint with demand intact (delays, pricing power for power and grid suppliers, a longer cycle) from a demand reset (cancellations, lease walk-aways, capex cuts with no supply explanation). Say which the evidence supports.
+
+Sources and weighting: earnings calls, 10-K and 10-Q notes, broker research, expert calls with utility planners, developers, EPC contractors and equipment suppliers, regulatory filings, trade press. Note each source's incentive: utilities and equipment makers may overstate pipelines, hyperscalers may overstate constraints. Flag where expert calls contradict management.
+
+Timeframe: 1 January 2025 to today, with most weight on the last two quarters.
+
+Output: a prose report organised by constraint. State each finding as a claim with the supporting companies and documents cited underneath. No scores, ratings or company-by-company tables. For each constraint, give a plain verdict (binding, easing or not binding) and the evidence that would change it. Finish with:
+(a) an estimate of the gap between expected and likely 2027 capacity additions, with a range, or a statement that the evidence does not support one;
+(b) whether supplier estimates and capex guidance already reflect the constraints;
+(c) five indicators to track monthly, each with its source.
