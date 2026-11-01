@@ -1,0 +1,62 @@
+DELIVERABLE 1: Top of mind for clients
+
+Subject: Top of mind: AI’s funding test and a strike after the vote
+
+Team,
+
+Who pays for AI?
+A new risk is emerging around the AI trade: funding. For two years the debate was about whether the demand was real. This week the question became who finances the buildout. OpenAI scaled back its round, Anthropic looks likely to list with a junk rating, and S&P turned negative on Meta. So much of the capex is now paid for by capital markets rather than cash flow that falling share prices can feed straight back into lower spending, which makes this more self-reinforcing than a normal earnings wobble. That said, the demand side hasn’t cracked: all three big cloud platforms still say they can’t build capacity fast enough. What we’re seeing is probably less a bust than a sorting, between hyperscalers that can fund themselves and a borrowed-money second tier (neoclouds, the labs) that can’t. There’s a political angle too. A Democratic House would bring hearings on data-centre power bills and on what AI does to jobs. Our view: the Anthropic IPO later this month is the real test, and while hedge funds have already cut tech hard, the moves could stay violent even if the cycle holds.
+
+Strike after the vote?
+Oil is now pricing a resumption of US strikes on Iran once Tuesday’s midterms are out of the way. The new element is energy infrastructure. It has been largely off limits so far but could become a target, and Tehran has warned its response would have no geographical limits. The political calendar makes the risk real. Democrats look set to take the House and possibly the Senate, and war-powers votes from January would arguably narrow the White House’s window to act. Yet diplomacy has rarely been this busy, with Qatari mediators shuttling to Tehran and Vance writing directly to Iranian hardliners. In other words, the market is so one-sided that a deal, or a smaller-than-feared operation, would hit oil hard. Our view: we still think a resolution is the most likely outcome, but the timing is untradeable, so energy stays in portfolios as a hedge rather than a view.
+
+One to watch: Fitch moved France to a negative outlook after Friday’s close, and Lagarde will now leave the ECB in the middle of a French presidential campaign. We think contagion stays contained while the ECB backstop is credible, but that is exactly the question her successor inherits.
+
+Best, Ju
+
+Sources:
+
+Vital Talking Points, week ended 30 Oct 2026
+Vital Weekend, 1 Nov 2026
+CNBC: OpenAI pares fundraising goal
+TechCrunch: Anthropic expected to receive high junk rating
+S&P Global Ratings: Meta outlook revised to negative
+USA Today: midterm polls and odds
+Reuters: Fitch revises France outlook to negative
+Yahoo Finance: Lagarde to step down 7 February
+
+DELIVERABLE 2: Monday “week that was”
+
+PART A: THE WEEK IN ONE WORD: CREDIT
+
+One word this week: credit. It has two meanings, and markets tested both.
+
+Start with AI. For two years the question was whether the demand was there. This week the question became who lends the money. OpenAI trimmed its fundraising. S&P put Meta on negative outlook. And Anthropic may come to market with a junk rating. The AI buildout now runs on credit, and the lenders have started asking questions. Intel’s worst day on record and a Nasdaq brushing against correction territory were the price.
+
+That flight from tech took us to the central banks. All three of the big ones held this week, and each sounded a shade less hawkish than feared. Markets gave them credit for it: Treasury yields slipped back under five percent even as oil rose.
+
+Credit was also the story for governments. On Friday night Fitch withdrew a little of France’s, with a negative outlook. In London, Chancellor Healey went the other way. He delivered a deliberately boring budget, and the gilt market rewarded him by doing nothing at all. Credibility is cheap to keep and expensive to rebuild.
+
+Finally, oil. Diplomats were busier on Iran than at any point in months, and the oil market gave them no credit whatsoever. Brent is pricing a strike after Tuesday’s midterms.
+
+So the lesson of the week: credit, in both senses, is now the scarce asset. Watch who is still handing it out.
+
+PART B: SPOTLIGHTS
+
+1. The index fell, the average stock didn’t (partly overlaps with the AI item in Deliverable 1)
+The S&P 500 lost ground in October, yet the equal-weight index beat it by roughly 590bp. That is one of the sharpest monthly swings in favour of the average stock in decades (unverified, see flags). So stop watching the index and watch breadth. About 58% of S&P stocks now trade above their 50-day average, against roughly 21% in late September. Four forces drove it. Mega-cap AI names repriced on funding fears. Staples and healthcare drew defensive money. Lower yields helped rate-sensitive stocks. Oil lifted energy. Bottom line: this is concentration unwinding, not risk-off, and diversification is finally paying. The risk is that tech losses turn into a broader dash for cash.
+
+2. Gold in a war
+There is a hot war in the Gulf and equities are wobbling, yet gold sits at a one-year low, around 30% below its January record. So look at expected policy rates instead. Three things are driving gold. First, the Fed is still priced to hike in December. Second, the ECB and the Bank of England are tightening too, which raises the cost of holding a metal that pays nothing. Third, a speculative run is unwinding, with silver more than halved from its peak. Bottom line: gold is trading as a rates asset, not a geopolitical hedge. It needs the hiking cycle to end, and that probably means oil has to fall first.
+
+3. The Treasury versus the Fed
+The Fed is in a hiking cycle, yet the 10-year yield fell about 35bp in October. So look at how much long-dated debt governments are selling, not at the policy rate. Three things explain it. Washington has leaned on bills and bought back long bonds. London cut long gilt supply in this week’s budget. And money fleeing tech went into Treasuries. Bottom line: Wednesday’s refunding could matter more to the long end than Friday’s payrolls. If issuance keeps shortening, long yields can stay pinned while the Fed hikes. (This is a different variable from the 7 September real-rates spotlight, but it is the same asset class.)
+
+DELIVERABLE 3: Key Topics (updated every week)
+
+The AI debate moved from demand to funding, and tech cracked. The Nasdaq 100 briefly fell into correction territory on Friday as Intel had its worst day on record (around -29%). OpenAI cut its round to ~$20bn at a $1.25tn valuation. S&P moved Meta’s AA- to a negative outlook, and Blackstone flagged a likely junk rating for Anthropic after its IPO. Cloud backlogs still say demand exceeds capacity.
+Rotation, not risk-off. US equities fell for the week (S&P 500 -0.6%), but nine of 11 sectors rose. The equal-weight S&P beat the cap-weighted index by roughly 590bp in October.
+The Fed, ECB and BoJ all held, each a shade less hawkish than feared, yet December hikes stay priced. The Fed split 10-2, with Cook and Hammack voting for a hike, and futures still put a December move at roughly 75-80%. Lagarde leaves the ECB early, on 7 February. The 10-year Treasury yield slipped back just under 5%.
+Oil priced a post-midterm strike while gold lost its haven bid. Brent closed around $117 despite the busiest diplomacy in months, and gold broke below $4,000 to a one-year low. Fitch put France on negative outlook after Friday’s close. Healey’s low-key UK budget (headroom cut to £15bn) left gilts calm.
+Key events this week. Mon: US ISM manufacturing, Treasury borrowing estimate, Apple, Palantir. Tue: US midterms, AMD. Wed: Treasury quarterly refunding, ISM services, Eurozone flash CPI, Novo Nordisk, Uber, Qualcomm. Thu: Bank of England (a hike to 4.00% almost fully priced), Norges Bank. Fri: October payrolls (a modest rebound expected after September’s 29k).
+Our message: Access to capital, not AI demand, now sets the pace of this cycle, and the Anthropic IPO later this month is the test. We prefer breadth over the index and hold energy as a hedge rather than a call on Iran. We remain neutral duration but believe an entry point is nearing: with the 10-year near 5%, any fade in oil would pull yields sharply lower.
