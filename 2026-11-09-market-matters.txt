@@ -1,0 +1,80 @@
+Market Matters — draft for Monday 9 November 2026
+
+What’s moving markets?
+Blue wave, red screens
+
+Last week we flagged the US midterm elections as the event to watch. Democrats won both the House and the Senate, the first time both chambers have flipped in a midterm since 2006 (CS Monitor, 4 Nov).
+
+Markets cheered first and worried later. The Dow Jones rose 3% on Wednesday, its best day after a midterm since 1982 (Yahoo Finance, 5 Nov). On Thursday the S&P 500 fell 4.36% and the Nasdaq Composite fell 5.52% (Yahoo Finance, 5 Nov). For both indices it was the worst day since April 2025 (StockTitan, 5 Nov). Shares recovered part of the loss on Friday. The S&P 500 closed at 7,376.86, down 2.7% for the week, its worst week since April 2025 (AP via AsiaOne, 7 Nov).
+
+The worry is AI infrastructure. Investors fear a Democratic Congress could tighten the rules on data centres, the buildings that house the computers powering AI. Local voters backed limits in 40 of the 41 ballot measures on data centres (State Capitol Lobbyist, citing Ballotpedia, 5 Nov).
+
+Oil sheds some of its war premium
+
+Last week we noted oil above $110 a barrel and growing concern about further military action. Brent crude settled at $98.32 on Friday (eOption, 6 Nov). That left it down around 13% for the week on comparable contracts, its steepest weekly fall since the start of the pandemic (eOption, 6 Nov). Traders hoped the election result would hasten an end to the war with Iran.
+
+Hopes and risks rose together. Qatar has put a two-day confidence-building plan to both sides, ending with Iran reopening the Strait of Hormuz (AP via Business Standard, 7 Nov). On Friday night, though, President Trump described a “minor” US strike on Iranian air defences, while insisting that talks were making progress (Euronews, 7 Nov).
+
+[Your view here]
+
+The Bank of England moves first
+
+As we flagged last week, the Bank of England (BoE) raised interest rates by 0.25 percentage points to 4%. It was the BoE’s first increase since August 2023 (Bank of England, 5 Nov). The BoE expects inflation to reach around 5% by the middle of next year. Governor Andrew Bailey said that unless the Middle East conflict is resolved, the rise did not seem likely “to be the last increase” (AJ Bell, 5 Nov).
+
+[Your view here]
+
+What does this mean for investors?
+One industry, one index
+
+On Thursday the PHLX Semiconductor index, which tracks major chipmakers, fell 12.25% (Yahoo Finance, 5 Nov). It was the index’s worst day since March 2020 and left it about 38% below its June record (Yahoo Finance, 5 Nov).
+
+Last week our investment team said AI will increasingly influence the wider economy, so investing need not be a choice between AI companies and everything else. Thursday showed the other side of that link. The same small group of stocks that lifted the indices can also drag them down.
+
+[Your view here]
+
+A jobs surprise keeps the Fed in play
+
+The other item on last week’s watch list brought a surprise. The US economy added 165,000 jobs in October and unemployment fell to 4.1% (BLS, 6 Nov). Economists polled by Reuters had expected 65,000 jobs (Reuters, 6 Nov). The figures for August and September were also revised up by a combined 84,000 jobs (BLS, 6 Nov).
+
+According to CME FedWatch, markets now put the chance of a US Federal Reserve (Fed) rate rise in December back near 80%, up from about 67% on Thursday (Reuters, 6 Nov). Government bonds still did their job over the week. The 10-year US yield ended Friday at 4.858%, around 0.07 percentage points lower than a week earlier (eOption, 6 Nov). Bond yields fall when prices rise, so bondholders gained while shares fell.
+
+[Your view here]
+
+Less pain at home
+
+The FTSE 100 fell 1.01% on Friday to 10,673.94, leaving it down 0.5% for the week (AJ Bell, 6 Nov). The S&P 500 lost 2.7% over the same five days.
+
+[Your view here]
+
+What are we looking at this week?
+US inflation
+
+October’s US consumer price index is due on Tuesday 10 November (BLS). In September prices were up 3.7% on a year earlier. Core inflation, which strips out volatile food and energy prices, was 2.6% (BLS, 14 Oct). This is the last scheduled consumer price report before the Fed meets on 8 and 9 December (TokenPost, 1 Nov).
+
+UK growth
+
+The first estimate of UK growth for July to September arrives on Thursday 12 November. In the three months to August the economy grew 0.7% (ONS, 15 Oct).
+
+Diplomacy under strain
+
+Oil markets reopen on Sunday evening, their first session since Friday night’s strike. Iran says it will not negotiate on its nuclear programme until the US meets its core conditions, which include ending the blockade of its ports and lifting sanctions (AP via Business Standard, 7 Nov).
+
+Metrics that matter (six offered, cut to three)
+
+1896
+The Dow fell 3.44% on Thursday. According to Yahoo Finance’s analysis, that was its worst second session after a midterm in data going back to the index’s start in 1896 (Yahoo Finance, 5 Nov).
+
+$450 billion
+Roughly the stock market value Nvidia lost on Thursday alone. Chipmakers as a group gave up more than $1.5 trillion (Yahoo Finance, 5 Nov).
+
+35
+The number of vessels hit in October, the most in any month of the war, according to the UK Maritime Trade Operations agency (The Star, 6 Nov).
+
+4.0%
+Eurozone inflation in October, a three-year high, with energy prices up 20.8% on a year earlier (Forbes Middle East, 4 Nov).
+
+2.8%
+Growth in negotiated eurozone wages for the first half of 2027 on the ECB’s wage tracker, up from 2.3% for 2026 (ECB, 4 Nov).
+
+$358 million
+Net US share sales by retail investors by mid-afternoon on Thursday, according to Vanda Research. That put them on track for their largest one-day selling since 17 March 2020 (Yahoo Finance, 5 Nov).
